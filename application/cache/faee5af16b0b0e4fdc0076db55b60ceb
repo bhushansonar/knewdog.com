@@ -1,0 +1,1632 @@
+1425469152TS---><!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>knewdog! - The World&#039;s Best Way to Read Newsletters.</title>
+			<meta name="description" content="It`s like your own dog trained to bring your newsletters when you need them, to the place you want them... And from now on knewdog! will protect your mailbox from spam and virus.">
+			<meta name="keywords" content="Newsletter , newsletter, get newsletter">
+			<meta property="og:type" content="website" />
+			<meta property="og:url" content="http://localhost/knewdog.com/newsletter" />
+			<meta property="og:site_name" content="knewdog!" />
+			<meta name="robots" content="index, follow"/>        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <base href="http://localhost/knewdog.com/" />
+
+        <link rel="stylesheet" href="http://localhost/knewdog.com//assets/css/styles.css" type="text/css">
+        <link  rel="stylesheet" href="http://localhost/knewdog.com/assets/css/rateit.css" type="text/css">
+        <link rel="stylesheet" href="//code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css" type="text/css">
+
+        <link rel="stylesheet" type="text/css" href="http://localhost/knewdog.com/assets/css/jquery.fancybox.css?v=2.1.5" media="screen" />
+        <script src="http://localhost/knewdog.com/assets/js/jquery-1.7.1.min.js"></script>
+        <script src="//code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+        <script type="text/javascript" src="http://localhost/knewdog.com/assets/js/jquery.fancybox.js?v=2.1.5"></script>
+        <script type="text/javascript">var base_url = 'http://localhost/knewdog.com/'</script>
+        <script type="text/javascript">var unsubscribe_btn = "Yes, unsubscribe"</script>
+        <script type="text/javascript">var delete_msg = "Are you sure you want to delete this?"</script>
+        <script type="text/javascript">var delete_btn = "Yes, delete"</script>
+        <script type="text/javascript">var days = 'day(s)'</script>
+        <script type="text/javascript">var weeks = 'week(s)'</script>
+        <script type="text/javascript">var months = 'month(s)'</script>
+        <script type="text/javascript">var on = 'on'</script>
+        <script type="text/javascript">var cancle_btn = 'Cancel'</script>
+        <link rel="stylesheet" href="http://localhost/knewdog.com//assets/css/styles_en.css"><script>
+                            (function(i, s, o, g, r, a, m) {
+                                i['GoogleAnalyticsObject'] = r;
+                                i[r] = i[r] || function() {
+                                    (i[r].q = i[r].q || []).push(arguments)
+                                }, i[r].l = 1 * new Date();
+                                a = s.createElement(o),
+                                        m = s.getElementsByTagName(o)[0];
+                                a.async = 1;
+                                a.src = g;
+                                m.parentNode.insertBefore(a, m)
+                            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+                            ga('create', 'UA-30182586-2', 'auto');
+                            ga('send', 'pageview');
+
+                                            </script>    </head>
+    <body>
+        <div class="page indexpage">
+            <div id="dashwrapper">
+                <div id="wrapper">
+
+                    <header>
+                                                    <div class="headerinner" >
+                                <div class="header_lt">
+                                    <h1 class="logo logo_inner"><a href="http://localhost/knewdog.com/"><img src="http://localhost/knewdog.com//assets/img/logo_inner.png" alt="Inner Logo"></a></h1>
+                                </div>
+                                <div class="header_rt">
+                                    <ul class="country">
+                                                                                    <li style="cursor:pointer;" onClick="set_session('en')" class="active_lang">
+                                                                                                <img alt="Language Flag" title="English" src="http://localhost/knewdog.com//uploads/flag/89a7319f2709900a7f6e482442c0ed10.png"> 
+                                                
+                                            </li>
+                                                                                    <li style="cursor:pointer;" onClick="set_session('de')" class="">
+                                                                                                <img alt="Language Flag" title="Deutsch" src="http://localhost/knewdog.com//uploads/flag/5eee15ffd15126c27168687413a73cc7.png"> 
+                                                
+                                            </li>
+                                                                                    <li style="cursor:pointer;" onClick="set_session('fr')" class="">
+                                                                                                <img alt="Language Flag" title="français" src="http://localhost/knewdog.com//uploads/flag/a6cce7386e61bcdaae61754f60d6c7d7.png"> 
+                                                
+                                            </li>
+                                                                            </ul>
+                                    <div class="headertext_inner">
+                                        <span style="color:#E46C0A; font-size:22px; font-weight:bold;">The World's Safest Newsletter Library</span>
+                                    </div>
+                                </div>
+                            </div>
+                                                <nav>
+                            <ul class="menu">
+                                <li ><a href="http://localhost/knewdog.com/">Home</a></li>
+                                <li ><a href="http://localhost/knewdog.com/signup">Sign Up<br/><span>(Free!)</span></a></li>
+                                <li class="current"><a href="http://localhost/knewdog.com/newsletter">Newsletters</a></li>
+                                <li ><a href="http://localhost/knewdog.com/blog">Blog</a></li>
+                                <li ><a href="http://localhost/knewdog.com/help">Help</a></li>
+                                <li class="login" style="width: 319px;text-align:center;">
+                                                                            <a href="http://localhost/knewdog.com/myknewdog">My knewdog!</a><br/>
+
+                                        <span style="color: white !important; font-style: italic; cursor: pointer; font-size: 17px; text-align: center; float: left; width: 290px; margin-top: -1px;"><a style="margin-top:1px; color: #FFF;" href="http://localhost/knewdog.com/home/logout"><span>Logout</span></a></span>
+                                                                    </li>
+                            </ul>
+                        </nav>
+                    </header><main>
+    <div class="set_errors">
+            </div>
+    <section class="knewdog findnewsletter" id="container">
+        <div id="knewdog_leftbar">
+            <div class="knewdog_leftbar_inner">
+                <div id="tabsholder">
+                    <ul class="tabs">
+                        <li onclick="display_tabs(this.id)" id="tab_1" style="">Find<br/>Newsletters</li>
+                        <li onclick="display_tabs(this.id)" class="" id="tab_2">My<br/>Newsletters</li>
+                    </ul>
+                </div>
+                <div class="section" style="display:none;" id="section_1">
+                    <form method="post" action="http://localhost/knewdog.com/newsletter" name="newsletter_search" id="newsletter_search">
+                        <input type="hidden" name="form" value="section_1" />
+                        <div class="findnewsletter_form">
+
+                            <div>
+
+                                <div class="title">Advanced Search</div>
+                                <div class="fullwidth_input"><input value="" name="search_string" type="text" placeholder="for ex.: keyword, title, author, text ..."></div>
+                                <div class=""> 
+                                    <div class="selectgroup">
+                                        <div class="" ></div>
+                                        <div class="select"><label>Language:</label>
+                                            <select name="language_id">
+                                                <option value="">(all)</option>
+                                                                                                    <option   value="1">English</option>
+                                                                                                    <option   value="5">Deutsch</option>
+                                                                                                    <option   value="6">Français</option>
+                                                                                                    <option   value="7">Ру́сский</option>
+                                                                                                    <option   value="8">汉语</option>
+                                                                                                    <option   value="9">Castellano</option>
+                                                                                                    <option   value="10">Italiano</option>
+                                                                                                    <option   value="11">Português</option>
+                                                                                            </select>
+                                        </div>
+                                        <div class="select"><label>Category:</label>
+                                                                                        <select name="newsletter_category">
+                                                <option  value="">(all)</option>
+                                                                                                    <option   value="Business & Entrepreneurial">Business & Entrepreneurial</option>
+                                                                                                    <option   value="Sports & Leisure">Sports & Leisure</option>
+                                                                                                    <option   value="General">General</option>
+                                                                                                    <option   value="Job & Career">Job & Career</option>
+                                                                                                    <option   value="Money & Finance">Money & Finance</option>
+                                                                                                    <option   value="Personal & Private">Personal & Private</option>
+                                                                                            </select>
+                                        </div>
+                                        <div class="select"><label>Rating:</label>
+                                            <select name="rating_id">
+                                                <option value="">(all)</option>
+                                                <option  value="1">1</option>
+                                                <option  value="2">2</option>
+                                                <option  value="3">3</option>
+                                                <option  value="4">4</option>
+                                                <option  value="5">5</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="selectgroup">
+                                                                                <div class="" ></div>
+                                        <div class="select"><label>Location:</label>
+                                            <select name="author_country">
+                                                <option value="">(country)</option>
+                                                                                                    <option   value="3">Afghanistan</option>
+                                                                                                    <option   value="4">Albania</option>
+                                                                                                    <option   value="5">Algeria</option>
+                                                                                                    <option   value="6">American Samoa</option>
+                                                                                                    <option   value="7">Andorra</option>
+                                                                                                    <option   value="8">Angola</option>
+                                                                                                    <option   value="9">Anguilla</option>
+                                                                                                    <option   value="10">Antarctica</option>
+                                                                                                    <option   value="11">Antigua and/or Barbuda</option>
+                                                                                                    <option   value="12">Argentina</option>
+                                                                                                    <option   value="13">Armenia</option>
+                                                                                                    <option   value="14">Aruba</option>
+                                                                                                    <option   value="15">Australia</option>
+                                                                                                    <option   value="16">Austria</option>
+                                                                                                    <option   value="17">Azerbaijan</option>
+                                                                                                    <option   value="18">Bahamas</option>
+                                                                                                    <option   value="19">Bahrain</option>
+                                                                                                    <option   value="20">Bangladesh</option>
+                                                                                                    <option   value="21">Barbados</option>
+                                                                                                    <option   value="22">Belarus</option>
+                                                                                                    <option   value="23">Belgium</option>
+                                                                                                    <option   value="24">Belize</option>
+                                                                                                    <option   value="25">Benin</option>
+                                                                                                    <option   value="26">Bermuda</option>
+                                                                                                    <option   value="27">Bhutan</option>
+                                                                                                    <option   value="28">Bolivia</option>
+                                                                                                    <option   value="29">Bosnia and Herzegovina</option>
+                                                                                                    <option   value="30">Botswana</option>
+                                                                                                    <option   value="31">Bouvet Island</option>
+                                                                                                    <option   value="32">Brazil</option>
+                                                                                                    <option   value="33">British lndian Ocean Territory</option>
+                                                                                                    <option   value="34">Brunei Darussalam</option>
+                                                                                                    <option   value="35">Bulgaria</option>
+                                                                                                    <option   value="36">Burkina Faso</option>
+                                                                                                    <option   value="37">Burundi</option>
+                                                                                                    <option   value="38">Cambodia</option>
+                                                                                                    <option   value="39">Cameroon</option>
+                                                                                                    <option   value="2">Canada</option>
+                                                                                                    <option   value="40">Cape Verde</option>
+                                                                                                    <option   value="41">Cayman Islands</option>
+                                                                                                    <option   value="42">Central African Republic</option>
+                                                                                                    <option   value="43">Chad</option>
+                                                                                                    <option   value="44">Chile</option>
+                                                                                                    <option   value="45">China</option>
+                                                                                                    <option   value="46">Christmas Island</option>
+                                                                                                    <option   value="47">Cocos (Keeling) Islands</option>
+                                                                                                    <option   value="48">Colombia</option>
+                                                                                                    <option   value="49">Comoros</option>
+                                                                                                    <option   value="50">Congo</option>
+                                                                                                    <option   value="51">Cook Islands</option>
+                                                                                                    <option   value="52">Costa Rica</option>
+                                                                                                    <option   value="53">Croatia (Hrvatska)</option>
+                                                                                                    <option   value="54">Cuba</option>
+                                                                                                    <option   value="55">Cyprus</option>
+                                                                                                    <option   value="56">Czech Republic</option>
+                                                                                                    <option   value="57">Denmark</option>
+                                                                                                    <option   value="58">Djibouti</option>
+                                                                                                    <option   value="59">Dominica</option>
+                                                                                                    <option   value="60">Dominican Republic</option>
+                                                                                                    <option   value="61">East Timor</option>
+                                                                                                    <option   value="62">Ecuador</option>
+                                                                                                    <option   value="63">Egypt</option>
+                                                                                                    <option   value="64">El Salvador</option>
+                                                                                                    <option   value="65">Equatorial Guinea</option>
+                                                                                                    <option   value="66">Eritrea</option>
+                                                                                                    <option   value="67">Estonia</option>
+                                                                                                    <option   value="68">Ethiopia</option>
+                                                                                                    <option   value="69">Falkland Islands (Malvinas)</option>
+                                                                                                    <option   value="70">Faroe Islands</option>
+                                                                                                    <option   value="71">Fiji</option>
+                                                                                                    <option   value="72">Finland</option>
+                                                                                                    <option   value="73">France</option>
+                                                                                                    <option   value="74">France, Metropolitan</option>
+                                                                                                    <option   value="75">French Guiana</option>
+                                                                                                    <option   value="76">French Polynesia</option>
+                                                                                                    <option   value="77">French Southern Territories</option>
+                                                                                                    <option   value="78">Gabon</option>
+                                                                                                    <option   value="79">Gambia</option>
+                                                                                                    <option   value="80">Georgia</option>
+                                                                                                    <option   value="81">Germany</option>
+                                                                                                    <option   value="82">Ghana</option>
+                                                                                                    <option   value="83">Gibraltar</option>
+                                                                                                    <option   value="84">Greece</option>
+                                                                                                    <option   value="85">Greenland</option>
+                                                                                                    <option   value="86">Grenada</option>
+                                                                                                    <option   value="87">Guadeloupe</option>
+                                                                                                    <option   value="88">Guam</option>
+                                                                                                    <option   value="89">Guatemala</option>
+                                                                                                    <option   value="90">Guinea</option>
+                                                                                                    <option   value="91">Guinea-Bissau</option>
+                                                                                                    <option   value="92">Guyana</option>
+                                                                                                    <option   value="93">Haiti</option>
+                                                                                                    <option   value="94">Heard and Mc Donald Islands</option>
+                                                                                                    <option   value="95">Honduras</option>
+                                                                                                    <option   value="96">Hong Kong</option>
+                                                                                                    <option   value="97">Hungary</option>
+                                                                                                    <option   value="98">Iceland</option>
+                                                                                                    <option   value="99">India</option>
+                                                                                                    <option   value="100">Indonesia</option>
+                                                                                                    <option   value="101">Iran (Islamic Republic of)</option>
+                                                                                                    <option   value="102">Iraq</option>
+                                                                                                    <option   value="103">Ireland</option>
+                                                                                                    <option   value="104">Israel</option>
+                                                                                                    <option   value="105">Italy</option>
+                                                                                                    <option   value="106">Ivory Coast</option>
+                                                                                                    <option   value="107">Jamaica</option>
+                                                                                                    <option   value="108">Japan</option>
+                                                                                                    <option   value="109">Jordan</option>
+                                                                                                    <option   value="110">Kazakhstan</option>
+                                                                                                    <option   value="111">Kenya</option>
+                                                                                                    <option   value="112">Kiribati</option>
+                                                                                                    <option   value="113">Korea, Democratic People's Republic of</option>
+                                                                                                    <option   value="114">Korea, Republic of</option>
+                                                                                                    <option   value="115">Kuwait</option>
+                                                                                                    <option   value="116">Kyrgyzstan</option>
+                                                                                                    <option   value="117">Lao People's Democratic Republic</option>
+                                                                                                    <option   value="118">Latvia</option>
+                                                                                                    <option   value="119">Lebanon</option>
+                                                                                                    <option   value="120">Lesotho</option>
+                                                                                                    <option   value="121">Liberia</option>
+                                                                                                    <option   value="122">Libyan Arab Jamahiriya</option>
+                                                                                                    <option   value="123">Liechtenstein</option>
+                                                                                                    <option   value="124">Lithuania</option>
+                                                                                                    <option   value="125">Luxembourg</option>
+                                                                                                    <option   value="126">Macau</option>
+                                                                                                    <option   value="127">Macedonia</option>
+                                                                                                    <option   value="128">Madagascar</option>
+                                                                                                    <option   value="129">Malawi</option>
+                                                                                                    <option   value="130">Malaysia</option>
+                                                                                                    <option   value="131">Maldives</option>
+                                                                                                    <option   value="132">Mali</option>
+                                                                                                    <option   value="133">Malta</option>
+                                                                                                    <option   value="134">Marshall Islands</option>
+                                                                                                    <option   value="135">Martinique</option>
+                                                                                                    <option   value="136">Mauritania</option>
+                                                                                                    <option   value="137">Mauritius</option>
+                                                                                                    <option   value="138">Mayotte</option>
+                                                                                                    <option   value="139">Mexico</option>
+                                                                                                    <option   value="140">Micronesia, Federated States of</option>
+                                                                                                    <option   value="141">Moldova, Republic of</option>
+                                                                                                    <option   value="142">Monaco</option>
+                                                                                                    <option   value="143">Mongolia</option>
+                                                                                                    <option   value="144">Montserrat</option>
+                                                                                                    <option   value="145">Morocco</option>
+                                                                                                    <option   value="146">Mozambique</option>
+                                                                                                    <option   value="147">Myanmar</option>
+                                                                                                    <option   value="148">Namibia</option>
+                                                                                                    <option   value="149">Nauru</option>
+                                                                                                    <option   value="150">Nepal</option>
+                                                                                                    <option   value="151">Netherlands</option>
+                                                                                                    <option   value="152">Netherlands Antilles</option>
+                                                                                                    <option   value="153">New Caledonia</option>
+                                                                                                    <option   value="154">New Zealand</option>
+                                                                                                    <option   value="155">Nicaragua</option>
+                                                                                                    <option   value="156">Niger</option>
+                                                                                                    <option   value="157">Nigeria</option>
+                                                                                                    <option   value="158">Niue</option>
+                                                                                                    <option   value="159">Norfork Island</option>
+                                                                                                    <option   value="160">Northern Mariana Islands</option>
+                                                                                                    <option   value="161">Norway</option>
+                                                                                                    <option   value="162">Oman</option>
+                                                                                                    <option   value="163">Pakistan</option>
+                                                                                                    <option   value="164">Palau</option>
+                                                                                                    <option   value="165">Panama</option>
+                                                                                                    <option   value="166">Papua New Guinea</option>
+                                                                                                    <option   value="167">Paraguay</option>
+                                                                                                    <option   value="168">Peru</option>
+                                                                                                    <option   value="169">Philippines</option>
+                                                                                                    <option   value="170">Pitcairn</option>
+                                                                                                    <option   value="171">Poland</option>
+                                                                                                    <option   value="172">Portugal</option>
+                                                                                                    <option   value="173">Puerto Rico</option>
+                                                                                                    <option   value="174">Qatar</option>
+                                                                                                    <option   value="175">Reunion</option>
+                                                                                                    <option   value="176">Romania</option>
+                                                                                                    <option   value="177">Russian Federation</option>
+                                                                                                    <option   value="178">Rwanda</option>
+                                                                                                    <option   value="179">Saint Kitts and Nevis</option>
+                                                                                                    <option   value="180">Saint Lucia</option>
+                                                                                                    <option   value="181">Saint Vincent and the Grenadines</option>
+                                                                                                    <option   value="182">Samoa</option>
+                                                                                                    <option   value="183">San Marino</option>
+                                                                                                    <option   value="184">Sao Tome and Principe</option>
+                                                                                                    <option   value="185">Saudi Arabia</option>
+                                                                                                    <option   value="186">Senegal</option>
+                                                                                                    <option   value="187">Seychelles</option>
+                                                                                                    <option   value="188">Sierra Leone</option>
+                                                                                                    <option   value="189">Singapore</option>
+                                                                                                    <option   value="190">Slovakia</option>
+                                                                                                    <option   value="191">Slovenia</option>
+                                                                                                    <option   value="192">Solomon Islands</option>
+                                                                                                    <option   value="193">Somalia</option>
+                                                                                                    <option   value="194">South Africa</option>
+                                                                                                    <option   value="195">South Georgia South Sandwich Islands</option>
+                                                                                                    <option   value="196">Spain</option>
+                                                                                                    <option   value="197">Sri Lanka</option>
+                                                                                                    <option   value="198">St. Helena</option>
+                                                                                                    <option   value="199">St. Pierre and Miquelon</option>
+                                                                                                    <option   value="200">Sudan</option>
+                                                                                                    <option   value="201">Suriname</option>
+                                                                                                    <option   value="202">Svalbarn and Jan Mayen Islands</option>
+                                                                                                    <option   value="203">Swaziland</option>
+                                                                                                    <option   value="204">Sweden</option>
+                                                                                                    <option   value="205">Switzerland</option>
+                                                                                                    <option   value="206">Syrian Arab Republic</option>
+                                                                                                    <option   value="207">Taiwan</option>
+                                                                                                    <option   value="208">Tajikistan</option>
+                                                                                                    <option   value="209">Tanzania, United Republic of</option>
+                                                                                                    <option   value="210">Thailand</option>
+                                                                                                    <option   value="211">Togo</option>
+                                                                                                    <option   value="212">Tokelau</option>
+                                                                                                    <option   value="213">Tonga</option>
+                                                                                                    <option   value="214">Trinidad and Tobago</option>
+                                                                                                    <option   value="215">Tunisia</option>
+                                                                                                    <option   value="216">Turkey</option>
+                                                                                                    <option   value="217">Turkmenistan</option>
+                                                                                                    <option   value="218">Turks and Caicos Islands</option>
+                                                                                                    <option   value="219">Tuvalu</option>
+                                                                                                    <option   value="220">Uganda</option>
+                                                                                                    <option   value="221">Ukraine</option>
+                                                                                                    <option   value="222">United Arab Emirates</option>
+                                                                                                    <option   value="223">United Kingdom</option>
+                                                                                                    <option   value="1">United States</option>
+                                                                                                    <option   value="224">United States minor outlying islands</option>
+                                                                                                    <option   value="225">Uruguay</option>
+                                                                                                    <option   value="226">Uzbekistan</option>
+                                                                                                    <option   value="227">Vanuatu</option>
+                                                                                                    <option   value="228">Vatican City State</option>
+                                                                                                    <option   value="229">Venezuela</option>
+                                                                                                    <option   value="230">Vietnam</option>
+                                                                                                    <option   value="232">Virgin Islands (U.S.)</option>
+                                                                                                    <option   value="231">Virigan Islands (British)</option>
+                                                                                                    <option   value="233">Wallis and Futuna Islands</option>
+                                                                                                    <option   value="234">Western Sahara</option>
+                                                                                                    <option   value="235">Yemen</option>
+                                                                                                    <option   value="236">Yugoslavia</option>
+                                                                                                    <option   value="237">Zaire</option>
+                                                                                                    <option   value="238">Zambia</option>
+                                                                                                    <option   value="239">Zimbabwe</option>
+                                                                                            </select>
+                                        </div>
+                                        <div class="select"><label></label><input style="padding:2.5%" placeholder="Zip code" type="text" value="" name="author_zipcode" /></div>
+                                        <div class="select cancel_button"><label></label>
+                                            <div style="float:right;" class="summary_cancel">
+                                                <a class="cancle" href="http://localhost/knewdog.com/newsletter">cancel</a>
+                                                <!--<input class="cancle" type="reset" value="cancle" />-->
+                                                <input  class="btn btn_main" style="font-size: 14px; margin-top: 1px; padding: 3px 5px;"  value="search" type="submit">
+                                                    <!--<img src="assets/img/search.png">-->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="pager">
+                                                                <div class="result">Result 1-10 out of 23<!--Result 1-10 out of 986--></div>
+                                <div class="sortby">
+                                    <label>Sort by:</label>
+                                                                        <select name="order">
+                                        <option  value="newsletter_name">Newsletter title</option>
+                                        <option  value="author_name">Newsletter author</option>
+                                        <option  value="newsletter_id">Newest first</option>
+                                    </select>
+                                </div>
+                                <!--<div class="view"><label>View:</label><a href="#"><img src="assets/img/view.png"></a></div>-->
+                            </div>
+                        </div>
+                    </form>
+                    <div style="clear:both;" class="reviewlist">
+                                                    <div class="dashreview">
+                                <div class="review_img"><a   href="http://localhost/knewdog.com/newsletter/specific/automotive-news-china/242">
+                                                                                    <img style="width:79px;" src="http://localhost/knewdog.com/uploads/2b08c9093e8fe35506d266ee9f57a590.jpg" alt="Review Image">
+                                                                            </a></div>
+                                <div class="review_detail">
+                                    <a class="name" href="http://localhost/knewdog.com/newsletter/specific/automotive-news-china/242" >Automotive News China</a><br/>
+                                    <label style="color:#808080; float:left;">Author: </label><span style="float: left; width: 315px;">Yang Jian</span>
+                                                                        <span style="float:left; position:relative" class="rating_hover">
+                                        <span style=" display: inline-block; vertical-align: text-bottom;" data-productid="242" title="" data-rateit-resetable="false" data-rateit-value="" data-rateit-ispreset="true" data-rateit-reset="false" data-rateit-readonly="true" class="rateit rateit9"></span>
+
+                                                                                <a style="text-decoration: none; margin-left: 3px; display: inline-block; vertical-align: top;" href="javascript:void(0);">(0)</a>
+                                                                            </span>
+
+                                    <br/>
+                                    <div class="description">
+                                                                                Highlights from top manufacturer and supplier news in greater China                                    </div>
+                                                                        <label style="color:#808080;">7 subscribers, language: English</label>
+                                    <!--<label style="color:#808080;">1.125 subscribers, 4 newsletters last month, language: English</label> -->
+                                </div>
+                                <div class="review_subscribe review_subscribe_242">
+                                                                                <img style="cursor:pointer;" onclick="popups_ajax('subscribe_1', '242', '1')" src="http://localhost/knewdog.com/assets/img/subscribe.png" alt="">
+                                            <label onclick="popups_ajax('subscribe_1', '242', '1')" style=" cursor:pointer; float: right; margin: 38px -51px; color: #9A7F82;font-weight: bold; font-size: 11px;">subscribe</label>
+                                                                            </div>
+
+
+
+
+                            </div>
+                                                    <div class="dashreview">
+                                <div class="review_img"><a   href="http://localhost/knewdog.com/newsletter/specific/automotive-news-europe/1248">
+                                                                                    <img style="width:79px;" src="http://localhost/knewdog.com/uploads/10e3a8c60c8ebef208ae617d955a70ea.jpg" alt="Review Image">
+                                                                            </a></div>
+                                <div class="review_detail">
+                                    <a class="name" href="http://localhost/knewdog.com/newsletter/specific/automotive-news-europe/1248" >Automotive News Europe</a><br/>
+                                    <label style="color:#808080; float:left;">Author: </label><span style="float: left; width: 315px;">crain Communications Inc</span>
+                                                                        <span style="float:left; position:relative" class="rating_hover">
+                                        <span style=" display: inline-block; vertical-align: text-bottom;" data-productid="1248" title="" data-rateit-resetable="false" data-rateit-value="" data-rateit-ispreset="true" data-rateit-reset="false" data-rateit-readonly="true" class="rateit rateit9"></span>
+
+                                                                                <a style="text-decoration: none; margin-left: 3px; display: inline-block; vertical-align: top;" href="javascript:void(0);">(0)</a>
+                                                                            </span>
+
+                                    <br/>
+                                    <div class="description">
+                                                                                Highlights from top manufacturer and supplier news in Europe                                    </div>
+                                                                        <label style="color:#808080;">3 subscribers, language: English</label>
+                                    <!--<label style="color:#808080;">1.125 subscribers, 4 newsletters last month, language: English</label> -->
+                                </div>
+                                <div class="review_subscribe review_subscribe_1248">
+                                                                                <img style="cursor:pointer;" onclick="popups_ajax('subscribe_1', '1248', '1')" src="http://localhost/knewdog.com/assets/img/subscribe.png" alt="">
+                                            <label onclick="popups_ajax('subscribe_1', '1248', '1')" style=" cursor:pointer; float: right; margin: 38px -51px; color: #9A7F82;font-weight: bold; font-size: 11px;">subscribe</label>
+                                                                            </div>
+
+
+
+
+                            </div>
+                                                    <div class="dashreview">
+                                <div class="review_img"><a   href="http://localhost/knewdog.com/newsletter/specific/automotive-news-north-america/244">
+                                                                                    <img style="width:79px;" src="http://localhost/knewdog.com/uploads/81be09219cfc7a4b2e4e0cc7306d6893.jpg" alt="Review Image">
+                                                                            </a></div>
+                                <div class="review_detail">
+                                    <a class="name" href="http://localhost/knewdog.com/newsletter/specific/automotive-news-north-america/244" >Automotive News North America</a><br/>
+                                    <label style="color:#808080; float:left;">Author: </label><span style="float: left; width: 315px;">crain Communications Inc</span>
+                                                                        <span style="float:left; position:relative" class="rating_hover">
+                                        <span style=" display: inline-block; vertical-align: text-bottom;" data-productid="244" title="" data-rateit-resetable="false" data-rateit-value="" data-rateit-ispreset="true" data-rateit-reset="false" data-rateit-readonly="true" class="rateit rateit9"></span>
+
+                                                                                <a style="text-decoration: none; margin-left: 3px; display: inline-block; vertical-align: top;" href="javascript:void(0);">(0)</a>
+                                                                            </span>
+
+                                    <br/>
+                                    <div class="description">
+                                                                                Highlights from top manufacturer and supplier news in North America                                    </div>
+                                                                        <label style="color:#808080;">6 subscribers, language: English</label>
+                                    <!--<label style="color:#808080;">1.125 subscribers, 4 newsletters last month, language: English</label> -->
+                                </div>
+                                <div class="review_subscribe review_subscribe_244">
+                                                                                <span style="float: right; margin-top: 20px; text-align: center; color:#808080; font-size: 11px;">You are already subscribed.<br>Go to <u><span style="cursor:pointer;" onclick="display_tabs('tab_2')">”My Newsletters”</u><br>to manage</br>your subscriptions.</span>
+                                                                        </div>
+
+
+
+
+                            </div>
+                                                    <div class="dashreview">
+                                <div class="review_img"><a   href="http://localhost/knewdog.com/newsletter/specific/brian-tracys-business-success-newsletter/239">
+                                                                                    <img style="width:79px;" src="http://localhost/knewdog.com/uploads/e18e1e3d865903bf015bf5eff025798a.jpg" alt="Review Image">
+                                                                            </a></div>
+                                <div class="review_detail">
+                                    <a class="name" href="http://localhost/knewdog.com/newsletter/specific/brian-tracys-business-success-newsletter/239" >Brian Tracy's Business Success Newsletter</a><br/>
+                                    <label style="color:#808080; float:left;">Author: </label><span style="float: left; width: 315px;">Brian Tracy</span>
+                                                                        <span style="float:left; position:relative" class="rating_hover">
+                                        <span style=" display: inline-block; vertical-align: text-bottom;" data-productid="239" title="" data-rateit-resetable="false" data-rateit-value="" data-rateit-ispreset="true" data-rateit-reset="false" data-rateit-readonly="true" class="rateit rateit9"></span>
+
+                                                                                <a style="text-decoration: none; margin-left: 3px; display: inline-block; vertical-align: top;" href="javascript:void(0);">(0)</a>
+                                                                            </span>
+
+                                    <br/>
+                                    <div class="description">
+                                                                                Brian Tracy will help you achieve your goals faster than ever!                                    </div>
+                                                                        <label style="color:#808080;">6 subscribers, language: English</label>
+                                    <!--<label style="color:#808080;">1.125 subscribers, 4 newsletters last month, language: English</label> -->
+                                </div>
+                                <div class="review_subscribe review_subscribe_239">
+                                                                                <span style="float: right; margin-top: 20px; text-align: center; color:#808080; font-size: 11px;">You are already subscribed.<br>Go to <u><span style="cursor:pointer;" onclick="display_tabs('tab_2')">”My Newsletters”</u><br>to manage</br>your subscriptions.</span>
+                                                                        </div>
+
+
+
+
+                            </div>
+                                                    <div class="dashreview">
+                                <div class="review_img"><a   href="http://localhost/knewdog.com/newsletter/specific/brian-tracys-personal-success-newsletter/237">
+                                                                                    <img style="width:79px;" src="http://localhost/knewdog.com/uploads/0a7cf598149ae402d85fae1050a652cd.jpg" alt="Review Image">
+                                                                            </a></div>
+                                <div class="review_detail">
+                                    <a class="name" href="http://localhost/knewdog.com/newsletter/specific/brian-tracys-personal-success-newsletter/237" >Brian Tracy's Personal Success Newsletter</a><br/>
+                                    <label style="color:#808080; float:left;">Author: </label><span style="float: left; width: 315px;">Brian Tracy</span>
+                                                                        <span style="float:left; position:relative" class="rating_hover">
+                                        <span style=" display: inline-block; vertical-align: text-bottom;" data-productid="237" title="" data-rateit-resetable="false" data-rateit-value="" data-rateit-ispreset="true" data-rateit-reset="false" data-rateit-readonly="true" class="rateit rateit9"></span>
+
+                                                                                <a style="text-decoration: none; margin-left: 3px; display: inline-block; vertical-align: top;" href="javascript:void(0);">(0)</a>
+                                                                            </span>
+
+                                    <br/>
+                                    <div class="description">
+                                                                                Brian Tracy will help you achieve your goals faster than ever!                                    </div>
+                                                                        <label style="color:#808080;">5 subscribers, language: English</label>
+                                    <!--<label style="color:#808080;">1.125 subscribers, 4 newsletters last month, language: English</label> -->
+                                </div>
+                                <div class="review_subscribe review_subscribe_237">
+                                                                                <img style="cursor:pointer;" onclick="popups_ajax('subscribe_1', '237', '1')" src="http://localhost/knewdog.com/assets/img/subscribe.png" alt="">
+                                            <label onclick="popups_ajax('subscribe_1', '237', '1')" style=" cursor:pointer; float: right; margin: 38px -51px; color: #9A7F82;font-weight: bold; font-size: 11px;">subscribe</label>
+                                                                            </div>
+
+
+
+
+                            </div>
+                                                    <div class="dashreview">
+                                <div class="review_img"><a   href="http://localhost/knewdog.com/newsletter/specific/brian-tracys-sales-success-newsletter/238">
+                                                                                    <img style="width:79px;" src="http://localhost/knewdog.com/uploads/622764cca9585a8070bc94bf15f3c0af.jpg" alt="Review Image">
+                                                                            </a></div>
+                                <div class="review_detail">
+                                    <a class="name" href="http://localhost/knewdog.com/newsletter/specific/brian-tracys-sales-success-newsletter/238" >Brian Tracy's Sales Success Newsletter</a><br/>
+                                    <label style="color:#808080; float:left;">Author: </label><span style="float: left; width: 315px;">Brian Tracy</span>
+                                                                        <span style="float:left; position:relative" class="rating_hover">
+                                        <span style=" display: inline-block; vertical-align: text-bottom;" data-productid="238" title="" data-rateit-resetable="false" data-rateit-value="" data-rateit-ispreset="true" data-rateit-reset="false" data-rateit-readonly="true" class="rateit rateit9"></span>
+
+                                                                                <a style="text-decoration: none; margin-left: 3px; display: inline-block; vertical-align: top;" href="javascript:void(0);">(0)</a>
+                                                                            </span>
+
+                                    <br/>
+                                    <div class="description">
+                                                                                Brian Tracy will help you achieve your goals faster than ever!                                    </div>
+                                                                        <label style="color:#808080;">3 subscribers, language: English</label>
+                                    <!--<label style="color:#808080;">1.125 subscribers, 4 newsletters last month, language: English</label> -->
+                                </div>
+                                <div class="review_subscribe review_subscribe_238">
+                                                                                <img style="cursor:pointer;" onclick="popups_ajax('subscribe_1', '238', '1')" src="http://localhost/knewdog.com/assets/img/subscribe.png" alt="">
+                                            <label onclick="popups_ajax('subscribe_1', '238', '1')" style=" cursor:pointer; float: right; margin: 38px -51px; color: #9A7F82;font-weight: bold; font-size: 11px;">subscribe</label>
+                                                                            </div>
+
+
+
+
+                            </div>
+                                                    <div class="dashreview">
+                                <div class="review_img"><a   href="http://localhost/knewdog.com/newsletter/specific/copywriting-with-copyblogger/1365">
+                                                                                    <img style="width:79px;" src="http://localhost/knewdog.com/uploads/515059ecc2f0f8715993bd232070726f.jpg" alt="Review Image">
+                                                                            </a></div>
+                                <div class="review_detail">
+                                    <a class="name" href="http://localhost/knewdog.com/newsletter/specific/copywriting-with-copyblogger/1365" >Copywriting with Copyblogger</a><br/>
+                                    <label style="color:#808080; float:left;">Author: </label><span style="float: left; width: 315px;">Brian Clark</span>
+                                                                        <span style="float:left; position:relative" class="rating_hover">
+                                        <span style=" display: inline-block; vertical-align: text-bottom;" data-productid="1365" title="" data-rateit-resetable="false" data-rateit-value="" data-rateit-ispreset="true" data-rateit-reset="false" data-rateit-readonly="true" class="rateit rateit9"></span>
+
+                                                                                <a style="text-decoration: none; margin-left: 3px; display: inline-block; vertical-align: top;" href="javascript:void(0);">(0)</a>
+                                                                            </span>
+
+                                    <br/>
+                                    <div class="description">
+                                                                                How to Craft Compelling Copy                                    </div>
+                                                                        <label style="color:#808080;">1 subscribers, language: English</label>
+                                    <!--<label style="color:#808080;">1.125 subscribers, 4 newsletters last month, language: English</label> -->
+                                </div>
+                                <div class="review_subscribe review_subscribe_1365">
+                                                                                <img style="cursor:pointer;" onclick="popups_ajax('subscribe_1', '1365', '1')" src="http://localhost/knewdog.com/assets/img/subscribe.png" alt="">
+                                            <label onclick="popups_ajax('subscribe_1', '1365', '1')" style=" cursor:pointer; float: right; margin: 38px -51px; color: #9A7F82;font-weight: bold; font-size: 11px;">subscribe</label>
+                                                                            </div>
+
+
+
+
+                            </div>
+                                                    <div class="dashreview">
+                                <div class="review_img"><a   href="http://localhost/knewdog.com/newsletter/specific/dave-ramsey/1364">
+                                                                                    <img style="width:79px;" src="http://localhost/knewdog.com/uploads/5a56e09454f2bdb5dda933e4bafebd47.jpg" alt="Review Image">
+                                                                            </a></div>
+                                <div class="review_detail">
+                                    <a class="name" href="http://localhost/knewdog.com/newsletter/specific/dave-ramsey/1364" >Dave Ramsey</a><br/>
+                                    <label style="color:#808080; float:left;">Author: </label><span style="float: left; width: 315px;">Dave Ramsey</span>
+                                                                        <span style="float:left; position:relative" class="rating_hover">
+                                        <span style=" display: inline-block; vertical-align: text-bottom;" data-productid="1364" title="" data-rateit-resetable="false" data-rateit-value="" data-rateit-ispreset="true" data-rateit-reset="false" data-rateit-readonly="true" class="rateit rateit9"></span>
+
+                                                                                <a style="text-decoration: none; margin-left: 3px; display: inline-block; vertical-align: top;" href="javascript:void(0);">(0)</a>
+                                                                            </span>
+
+                                    <br/>
+                                    <div class="description">
+                                                                                provides hope for Life & Money, Business & Leadership, Kids & School Curriculum and Church Leaders                                    </div>
+                                                                        <label style="color:#808080;">1 subscribers, language: English</label>
+                                    <!--<label style="color:#808080;">1.125 subscribers, 4 newsletters last month, language: English</label> -->
+                                </div>
+                                <div class="review_subscribe review_subscribe_1364">
+                                                                                <img style="cursor:pointer;" onclick="popups_ajax('subscribe_1', '1364', '1')" src="http://localhost/knewdog.com/assets/img/subscribe.png" alt="">
+                                            <label onclick="popups_ajax('subscribe_1', '1364', '1')" style=" cursor:pointer; float: right; margin: 38px -51px; color: #9A7F82;font-weight: bold; font-size: 11px;">subscribe</label>
+                                                                            </div>
+
+
+
+
+                            </div>
+                                                    <div class="dashreview">
+                                <div class="review_img"><a   href="http://localhost/knewdog.com/newsletter/specific/der-fonds/1361">
+                                                                                    <img style="width:79px;" src="http://localhost/knewdog.com/uploads/32e9d3fa65408017293306061460460c.jpg" alt="Review Image">
+                                                                            </a></div>
+                                <div class="review_detail">
+                                    <a class="name" href="http://localhost/knewdog.com/newsletter/specific/der-fonds/1361" >Der Fonds</a><br/>
+                                    <label style="color:#808080; float:left;">Author: </label><span style="float: left; width: 315px;">Egon Wachtendorf</span>
+                                                                        <span style="float:left; position:relative" class="rating_hover">
+                                        <span style=" display: inline-block; vertical-align: text-bottom;" data-productid="1361" title="" data-rateit-resetable="false" data-rateit-value="" data-rateit-ispreset="true" data-rateit-reset="false" data-rateit-readonly="true" class="rateit rateit9"></span>
+
+                                                                                <a style="text-decoration: none; margin-left: 3px; display: inline-block; vertical-align: top;" href="javascript:void(0);">(0)</a>
+                                                                            </span>
+
+                                    <br/>
+                                    <div class="description">
+                                                                                Top-Fonds und ihre Manager im Dauertest                                     </div>
+                                                                        <label style="color:#808080;">1 subscribers, language: Deutsch</label>
+                                    <!--<label style="color:#808080;">1.125 subscribers, 4 newsletters last month, language: English</label> -->
+                                </div>
+                                <div class="review_subscribe review_subscribe_1361">
+                                                                                <img style="cursor:pointer;" onclick="popups_ajax('subscribe_1', '1361', '1')" src="http://localhost/knewdog.com/assets/img/subscribe.png" alt="">
+                                            <label onclick="popups_ajax('subscribe_1', '1361', '1')" style=" cursor:pointer; float: right; margin: 38px -51px; color: #9A7F82;font-weight: bold; font-size: 11px;">subscribe</label>
+                                                                            </div>
+
+
+
+
+                            </div>
+                                                    <div class="dashreview">
+                                <div class="review_img"><a   href="http://localhost/knewdog.com/newsletter/specific/early-to-rise/1321">
+                                                                                    <img style="width:79px;" src="http://localhost/knewdog.com/uploads/b0c4f2fec45a2bc9dd9ffdc4094b4d25.jpg" alt="Review Image">
+                                                                            </a></div>
+                                <div class="review_detail">
+                                    <a class="name" href="http://localhost/knewdog.com/newsletter/specific/early-to-rise/1321" >Early To Rise</a><br/>
+                                    <label style="color:#808080; float:left;">Author: </label><span style="float: left; width: 315px;">Craig Ballantyne</span>
+                                                                        <span style="float:left; position:relative" class="rating_hover">
+                                        <span style=" display: inline-block; vertical-align: text-bottom;" data-productid="1321" title="" data-rateit-resetable="false" data-rateit-value="" data-rateit-ispreset="true" data-rateit-reset="false" data-rateit-readonly="true" class="rateit rateit9"></span>
+
+                                                                                <a style="text-decoration: none; margin-left: 3px; display: inline-block; vertical-align: top;" href="javascript:void(0);">(0)</a>
+                                                                            </span>
+
+                                    <br/>
+                                    <div class="description">
+                                                                                Health, Wealth And A Life Well Lived!                                    </div>
+                                                                        <label style="color:#808080;">1 subscribers, language: English</label>
+                                    <!--<label style="color:#808080;">1.125 subscribers, 4 newsletters last month, language: English</label> -->
+                                </div>
+                                <div class="review_subscribe review_subscribe_1321">
+                                                                                <img style="cursor:pointer;" onclick="popups_ajax('subscribe_1', '1321', '1')" src="http://localhost/knewdog.com/assets/img/subscribe.png" alt="">
+                                            <label onclick="popups_ajax('subscribe_1', '1321', '1')" style=" cursor:pointer; float: right; margin: 38px -51px; color: #9A7F82;font-weight: bold; font-size: 11px;">subscribe</label>
+                                                                            </div>
+
+
+
+
+                            </div>
+                           
+                    </div>
+                    <div class="pagination"><ul><li class="active"><a>1</a></li><li><a href="http://localhost/knewdog.com/newsletter/2">2</a></li><li><a href="http://localhost/knewdog.com/newsletter/3">3</a></li><li><a href="http://localhost/knewdog.com/newsletter/2">&gt;</a></li></ul></div>                </div>
+                
+                <div class="section" style="display:none;" id="section_2">
+                                                                <form method="post" action="http://localhost/knewdog.com/newsletter" name="mynewsletter_search" id="mynl_newsletter_search">
+                            <input type="hidden" name="form" value="section_2" />
+                            <div class="findnewsletter_form">
+
+                                <div>
+
+                                    <div class="title">Advanced Search</div>
+
+                                    <div class="fullwidth_input"><input value="" name="mynl_search_string" type="text" placeholder="for ex.: keyword, title, author, text ..."></div>
+                                    <div class="" > 
+                                        <div class="selectgroup">
+                                            <div class="" ></div>
+                                            <div class="select"><label>Language:</label>
+                                                <select name="mynl_language_id">
+                                                    <option value="">(all)</option>
+                                                                                                            <option   value="1">English</option>
+                                                                                                            <option   value="5">Deutsch</option>
+                                                                                                            <option   value="6">Français</option>
+                                                                                                            <option   value="7">Ру́сский</option>
+                                                                                                            <option   value="8">汉语</option>
+                                                                                                            <option   value="9">Castellano</option>
+                                                                                                            <option   value="10">Italiano</option>
+                                                                                                            <option   value="11">Português</option>
+                                                                                                    </select>
+                                            </div>
+                                            <div class="select"><label>Category:</label>
+                                                                                                <select name="mynl_newsletter_category">
+                                                    <option  value="">(all)</option>
+                                                                                                            <option   value="Business & Entrepreneurial">Business & Entrepreneurial</option>
+                                                                                                            <option   value="Sports & Leisure">Sports & Leisure</option>
+                                                                                                            <option   value="General">General</option>
+                                                                                                            <option   value="Job & Career">Job & Career</option>
+                                                                                                            <option   value="Money & Finance">Money & Finance</option>
+                                                                                                            <option   value="Personal & Private">Personal & Private</option>
+                                                                                                    </select>
+                                            </div>
+                                            <div class="select"><label>Rating:</label><select name="mynl_rating_id">
+                                                    <option value="">(all)</option>
+                                                    <option  value="1">1</option>
+                                                    <option  value="2">2</option>
+                                                    <option  value="3">3</option>
+                                                    <option  value="4">4</option>
+                                                    <option  value="5">5</option>
+                                                </select></div>
+                                        </div>
+                                        <div class="selectgroup">
+                                            <div class="" ></div>
+                                            <div class="select"><label>Location:</label>
+                                                <select name="mynl_author_country">
+                                                    <option value="">(country)</option>
+                                                                                                            <option   value="3">Afghanistan</option>
+                                                                                                            <option   value="4">Albania</option>
+                                                                                                            <option   value="5">Algeria</option>
+                                                                                                            <option   value="6">American Samoa</option>
+                                                                                                            <option   value="7">Andorra</option>
+                                                                                                            <option   value="8">Angola</option>
+                                                                                                            <option   value="9">Anguilla</option>
+                                                                                                            <option   value="10">Antarctica</option>
+                                                                                                            <option   value="11">Antigua and/or Barbuda</option>
+                                                                                                            <option   value="12">Argentina</option>
+                                                                                                            <option   value="13">Armenia</option>
+                                                                                                            <option   value="14">Aruba</option>
+                                                                                                            <option   value="15">Australia</option>
+                                                                                                            <option   value="16">Austria</option>
+                                                                                                            <option   value="17">Azerbaijan</option>
+                                                                                                            <option   value="18">Bahamas</option>
+                                                                                                            <option   value="19">Bahrain</option>
+                                                                                                            <option   value="20">Bangladesh</option>
+                                                                                                            <option   value="21">Barbados</option>
+                                                                                                            <option   value="22">Belarus</option>
+                                                                                                            <option   value="23">Belgium</option>
+                                                                                                            <option   value="24">Belize</option>
+                                                                                                            <option   value="25">Benin</option>
+                                                                                                            <option   value="26">Bermuda</option>
+                                                                                                            <option   value="27">Bhutan</option>
+                                                                                                            <option   value="28">Bolivia</option>
+                                                                                                            <option   value="29">Bosnia and Herzegovina</option>
+                                                                                                            <option   value="30">Botswana</option>
+                                                                                                            <option   value="31">Bouvet Island</option>
+                                                                                                            <option   value="32">Brazil</option>
+                                                                                                            <option   value="33">British lndian Ocean Territory</option>
+                                                                                                            <option   value="34">Brunei Darussalam</option>
+                                                                                                            <option   value="35">Bulgaria</option>
+                                                                                                            <option   value="36">Burkina Faso</option>
+                                                                                                            <option   value="37">Burundi</option>
+                                                                                                            <option   value="38">Cambodia</option>
+                                                                                                            <option   value="39">Cameroon</option>
+                                                                                                            <option   value="2">Canada</option>
+                                                                                                            <option   value="40">Cape Verde</option>
+                                                                                                            <option   value="41">Cayman Islands</option>
+                                                                                                            <option   value="42">Central African Republic</option>
+                                                                                                            <option   value="43">Chad</option>
+                                                                                                            <option   value="44">Chile</option>
+                                                                                                            <option   value="45">China</option>
+                                                                                                            <option   value="46">Christmas Island</option>
+                                                                                                            <option   value="47">Cocos (Keeling) Islands</option>
+                                                                                                            <option   value="48">Colombia</option>
+                                                                                                            <option   value="49">Comoros</option>
+                                                                                                            <option   value="50">Congo</option>
+                                                                                                            <option   value="51">Cook Islands</option>
+                                                                                                            <option   value="52">Costa Rica</option>
+                                                                                                            <option   value="53">Croatia (Hrvatska)</option>
+                                                                                                            <option   value="54">Cuba</option>
+                                                                                                            <option   value="55">Cyprus</option>
+                                                                                                            <option   value="56">Czech Republic</option>
+                                                                                                            <option   value="57">Denmark</option>
+                                                                                                            <option   value="58">Djibouti</option>
+                                                                                                            <option   value="59">Dominica</option>
+                                                                                                            <option   value="60">Dominican Republic</option>
+                                                                                                            <option   value="61">East Timor</option>
+                                                                                                            <option   value="62">Ecuador</option>
+                                                                                                            <option   value="63">Egypt</option>
+                                                                                                            <option   value="64">El Salvador</option>
+                                                                                                            <option   value="65">Equatorial Guinea</option>
+                                                                                                            <option   value="66">Eritrea</option>
+                                                                                                            <option   value="67">Estonia</option>
+                                                                                                            <option   value="68">Ethiopia</option>
+                                                                                                            <option   value="69">Falkland Islands (Malvinas)</option>
+                                                                                                            <option   value="70">Faroe Islands</option>
+                                                                                                            <option   value="71">Fiji</option>
+                                                                                                            <option   value="72">Finland</option>
+                                                                                                            <option   value="73">France</option>
+                                                                                                            <option   value="74">France, Metropolitan</option>
+                                                                                                            <option   value="75">French Guiana</option>
+                                                                                                            <option   value="76">French Polynesia</option>
+                                                                                                            <option   value="77">French Southern Territories</option>
+                                                                                                            <option   value="78">Gabon</option>
+                                                                                                            <option   value="79">Gambia</option>
+                                                                                                            <option   value="80">Georgia</option>
+                                                                                                            <option   value="81">Germany</option>
+                                                                                                            <option   value="82">Ghana</option>
+                                                                                                            <option   value="83">Gibraltar</option>
+                                                                                                            <option   value="84">Greece</option>
+                                                                                                            <option   value="85">Greenland</option>
+                                                                                                            <option   value="86">Grenada</option>
+                                                                                                            <option   value="87">Guadeloupe</option>
+                                                                                                            <option   value="88">Guam</option>
+                                                                                                            <option   value="89">Guatemala</option>
+                                                                                                            <option   value="90">Guinea</option>
+                                                                                                            <option   value="91">Guinea-Bissau</option>
+                                                                                                            <option   value="92">Guyana</option>
+                                                                                                            <option   value="93">Haiti</option>
+                                                                                                            <option   value="94">Heard and Mc Donald Islands</option>
+                                                                                                            <option   value="95">Honduras</option>
+                                                                                                            <option   value="96">Hong Kong</option>
+                                                                                                            <option   value="97">Hungary</option>
+                                                                                                            <option   value="98">Iceland</option>
+                                                                                                            <option   value="99">India</option>
+                                                                                                            <option   value="100">Indonesia</option>
+                                                                                                            <option   value="101">Iran (Islamic Republic of)</option>
+                                                                                                            <option   value="102">Iraq</option>
+                                                                                                            <option   value="103">Ireland</option>
+                                                                                                            <option   value="104">Israel</option>
+                                                                                                            <option   value="105">Italy</option>
+                                                                                                            <option   value="106">Ivory Coast</option>
+                                                                                                            <option   value="107">Jamaica</option>
+                                                                                                            <option   value="108">Japan</option>
+                                                                                                            <option   value="109">Jordan</option>
+                                                                                                            <option   value="110">Kazakhstan</option>
+                                                                                                            <option   value="111">Kenya</option>
+                                                                                                            <option   value="112">Kiribati</option>
+                                                                                                            <option   value="113">Korea, Democratic People's Republic of</option>
+                                                                                                            <option   value="114">Korea, Republic of</option>
+                                                                                                            <option   value="115">Kuwait</option>
+                                                                                                            <option   value="116">Kyrgyzstan</option>
+                                                                                                            <option   value="117">Lao People's Democratic Republic</option>
+                                                                                                            <option   value="118">Latvia</option>
+                                                                                                            <option   value="119">Lebanon</option>
+                                                                                                            <option   value="120">Lesotho</option>
+                                                                                                            <option   value="121">Liberia</option>
+                                                                                                            <option   value="122">Libyan Arab Jamahiriya</option>
+                                                                                                            <option   value="123">Liechtenstein</option>
+                                                                                                            <option   value="124">Lithuania</option>
+                                                                                                            <option   value="125">Luxembourg</option>
+                                                                                                            <option   value="126">Macau</option>
+                                                                                                            <option   value="127">Macedonia</option>
+                                                                                                            <option   value="128">Madagascar</option>
+                                                                                                            <option   value="129">Malawi</option>
+                                                                                                            <option   value="130">Malaysia</option>
+                                                                                                            <option   value="131">Maldives</option>
+                                                                                                            <option   value="132">Mali</option>
+                                                                                                            <option   value="133">Malta</option>
+                                                                                                            <option   value="134">Marshall Islands</option>
+                                                                                                            <option   value="135">Martinique</option>
+                                                                                                            <option   value="136">Mauritania</option>
+                                                                                                            <option   value="137">Mauritius</option>
+                                                                                                            <option   value="138">Mayotte</option>
+                                                                                                            <option   value="139">Mexico</option>
+                                                                                                            <option   value="140">Micronesia, Federated States of</option>
+                                                                                                            <option   value="141">Moldova, Republic of</option>
+                                                                                                            <option   value="142">Monaco</option>
+                                                                                                            <option   value="143">Mongolia</option>
+                                                                                                            <option   value="144">Montserrat</option>
+                                                                                                            <option   value="145">Morocco</option>
+                                                                                                            <option   value="146">Mozambique</option>
+                                                                                                            <option   value="147">Myanmar</option>
+                                                                                                            <option   value="148">Namibia</option>
+                                                                                                            <option   value="149">Nauru</option>
+                                                                                                            <option   value="150">Nepal</option>
+                                                                                                            <option   value="151">Netherlands</option>
+                                                                                                            <option   value="152">Netherlands Antilles</option>
+                                                                                                            <option   value="153">New Caledonia</option>
+                                                                                                            <option   value="154">New Zealand</option>
+                                                                                                            <option   value="155">Nicaragua</option>
+                                                                                                            <option   value="156">Niger</option>
+                                                                                                            <option   value="157">Nigeria</option>
+                                                                                                            <option   value="158">Niue</option>
+                                                                                                            <option   value="159">Norfork Island</option>
+                                                                                                            <option   value="160">Northern Mariana Islands</option>
+                                                                                                            <option   value="161">Norway</option>
+                                                                                                            <option   value="162">Oman</option>
+                                                                                                            <option   value="163">Pakistan</option>
+                                                                                                            <option   value="164">Palau</option>
+                                                                                                            <option   value="165">Panama</option>
+                                                                                                            <option   value="166">Papua New Guinea</option>
+                                                                                                            <option   value="167">Paraguay</option>
+                                                                                                            <option   value="168">Peru</option>
+                                                                                                            <option   value="169">Philippines</option>
+                                                                                                            <option   value="170">Pitcairn</option>
+                                                                                                            <option   value="171">Poland</option>
+                                                                                                            <option   value="172">Portugal</option>
+                                                                                                            <option   value="173">Puerto Rico</option>
+                                                                                                            <option   value="174">Qatar</option>
+                                                                                                            <option   value="175">Reunion</option>
+                                                                                                            <option   value="176">Romania</option>
+                                                                                                            <option   value="177">Russian Federation</option>
+                                                                                                            <option   value="178">Rwanda</option>
+                                                                                                            <option   value="179">Saint Kitts and Nevis</option>
+                                                                                                            <option   value="180">Saint Lucia</option>
+                                                                                                            <option   value="181">Saint Vincent and the Grenadines</option>
+                                                                                                            <option   value="182">Samoa</option>
+                                                                                                            <option   value="183">San Marino</option>
+                                                                                                            <option   value="184">Sao Tome and Principe</option>
+                                                                                                            <option   value="185">Saudi Arabia</option>
+                                                                                                            <option   value="186">Senegal</option>
+                                                                                                            <option   value="187">Seychelles</option>
+                                                                                                            <option   value="188">Sierra Leone</option>
+                                                                                                            <option   value="189">Singapore</option>
+                                                                                                            <option   value="190">Slovakia</option>
+                                                                                                            <option   value="191">Slovenia</option>
+                                                                                                            <option   value="192">Solomon Islands</option>
+                                                                                                            <option   value="193">Somalia</option>
+                                                                                                            <option   value="194">South Africa</option>
+                                                                                                            <option   value="195">South Georgia South Sandwich Islands</option>
+                                                                                                            <option   value="196">Spain</option>
+                                                                                                            <option   value="197">Sri Lanka</option>
+                                                                                                            <option   value="198">St. Helena</option>
+                                                                                                            <option   value="199">St. Pierre and Miquelon</option>
+                                                                                                            <option   value="200">Sudan</option>
+                                                                                                            <option   value="201">Suriname</option>
+                                                                                                            <option   value="202">Svalbarn and Jan Mayen Islands</option>
+                                                                                                            <option   value="203">Swaziland</option>
+                                                                                                            <option   value="204">Sweden</option>
+                                                                                                            <option   value="205">Switzerland</option>
+                                                                                                            <option   value="206">Syrian Arab Republic</option>
+                                                                                                            <option   value="207">Taiwan</option>
+                                                                                                            <option   value="208">Tajikistan</option>
+                                                                                                            <option   value="209">Tanzania, United Republic of</option>
+                                                                                                            <option   value="210">Thailand</option>
+                                                                                                            <option   value="211">Togo</option>
+                                                                                                            <option   value="212">Tokelau</option>
+                                                                                                            <option   value="213">Tonga</option>
+                                                                                                            <option   value="214">Trinidad and Tobago</option>
+                                                                                                            <option   value="215">Tunisia</option>
+                                                                                                            <option   value="216">Turkey</option>
+                                                                                                            <option   value="217">Turkmenistan</option>
+                                                                                                            <option   value="218">Turks and Caicos Islands</option>
+                                                                                                            <option   value="219">Tuvalu</option>
+                                                                                                            <option   value="220">Uganda</option>
+                                                                                                            <option   value="221">Ukraine</option>
+                                                                                                            <option   value="222">United Arab Emirates</option>
+                                                                                                            <option   value="223">United Kingdom</option>
+                                                                                                            <option   value="1">United States</option>
+                                                                                                            <option   value="224">United States minor outlying islands</option>
+                                                                                                            <option   value="225">Uruguay</option>
+                                                                                                            <option   value="226">Uzbekistan</option>
+                                                                                                            <option   value="227">Vanuatu</option>
+                                                                                                            <option   value="228">Vatican City State</option>
+                                                                                                            <option   value="229">Venezuela</option>
+                                                                                                            <option   value="230">Vietnam</option>
+                                                                                                            <option   value="232">Virgin Islands (U.S.)</option>
+                                                                                                            <option   value="231">Virigan Islands (British)</option>
+                                                                                                            <option   value="233">Wallis and Futuna Islands</option>
+                                                                                                            <option   value="234">Western Sahara</option>
+                                                                                                            <option   value="235">Yemen</option>
+                                                                                                            <option   value="236">Yugoslavia</option>
+                                                                                                            <option   value="237">Zaire</option>
+                                                                                                            <option   value="238">Zambia</option>
+                                                                                                            <option   value="239">Zimbabwe</option>
+                                                                                                    </select>
+                                            </div>
+                                            <div class="select"><label></label><input style="padding:2.5%" placeholder="Zip code" type="text" value="" name="mynl_author_zipcode" /></div>
+                                            <div class="select cancel_button"><label></label>
+                                                <div style="float:right;" class="summary_cancel">
+                                                    <a class="cancle" href="http://localhost/knewdog.com/newsletter">cancel</a>
+                                                    <!--<input class="cancle" type="reset" value="cancle" />-->
+                                                    <input class="btn btn_main" style="font-size: 14px; margin-top: 1px; padding: 3px 5px;" value="search"name="" type="submit">
+                                                    <!--<img src="assets/img/search.png"></button>-->
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                </div>
+                            </div>
+                            <div>
+                                <div class="pager">
+                                                                        <div class="result">Result 1-2 out of 2<!--Result 1-10 out of 986--></div>
+                                    <div class="sortby">
+                                        <label>Sort by:</label>
+                                                                                <select name="mynl_order">
+                                            <option  value="newsletter_name">Newsletter title</option>
+                                            <option  value="author_name">Newsletter author</option>
+                                            <option  value="newsletter_id">Newest first</option>
+                                        </select>
+                                    </div>
+                                    <!--<div class="view"><label>View:</label><a href="#"><img src="http://localhost/knewdog.com/assets/img/view.png"></a></div>-->
+                                </div>
+                            </div>
+                        </form>
+                        <div style="clear:both;" class="reviewlist">
+                                                            <div class="dashreview" id="unsubscribe_244">
+                                    <div class="review_img">
+                                        <a href="http://localhost/knewdog.com/newsletter/specific/automotive-news-north-america/244">
+                                                                                            <img style="width:79px;" src="http://localhost/knewdog.com/uploads/81be09219cfc7a4b2e4e0cc7306d6893.jpg" alt="screenshot">
+                                                                                    </a>
+                                    </div>
+                                    <div class="review_detail">
+                                        <a class="name" href="http://localhost/knewdog.com/newsletter/specific/automotive-news-north-america/244">Automotive News North America</a><br/>
+                                        <label style="color:#808080; float:left;">Author: </label><span style="float: left; width: 315px;">crain Communications Inc</span>
+                                                                                <span  style="float:left; position:relative" class="rating_hover">
+                                            <span style=" display: inline-block; vertical-align: text-bottom;" data-productid="244" title="" data-rateit-resetable="false" data-rateit-value="" data-rateit-ispreset="true" data-rateit-reset="false" data-rateit-readonly="true" class="rateit rateit9"></span>
+
+                                                                                        <a style="text-decoration: none; margin-left: 3px; display: inline-block; vertical-align: top;" href="http://localhost/knewdog.com/newsletter/display-rate/244">(0)</a>
+                                                                                    </span>
+
+                                        <br/>
+                                        <div class="description">
+                                            AutoNews.com is the leading North American automotive business Web site founded by Crain Communicati                                        </div>
+                                                                                <label style="color:#808080;">6 subscribers, language: English</label>
+                                        <!--<label style="color:#808080;">1.125 subscribers, 4 newsletters last month, language: English</label> -->
+                                    </div>
+                                    <div class="review_subscribe">
+                                                                                        <img style="cursor:pointer; float:none;" onclick="popups_ajax_unsubscribe('unsubscribe', '244', '1')" src="http://localhost/knewdog.com/assets/img/unsubscribe.png" alt="">
+                                                <label onclick="popups_ajax_unsubscribe('unsubscribe', '244', '1')" style="color: #9a7f82; cursor:pointer; float: right;font-size: 11px;font-weight: bold;margin: 0 84px;">unsubscribe</label>
+                                                <a href="http://localhost/knewdog.com/newsletter/display-rate/244"><img src="http://localhost/knewdog.com/assets/img/evaluate.png" class="evaluate" alt="">
+
+                                                                                                        <label style="color: #9a7f82;float: right;font-size: 11px;font-weight: bold;margin: -13px 22px;">evaluate</label>
+                                                </a>
+
+
+                                                                                                                                <!--<span style="float: right; margin-top: 20px; text-align: center; color:#808080; font-size: 11px;">
+                                                                                                                                You are already subscribed<br>Go to ”<u>My Newsletters</u>”<br>to manage<br>your subscriptions.</span>-->
+                                                                                </div>
+                                    
+                                </div>
+                                                            <div class="dashreview" id="unsubscribe_239">
+                                    <div class="review_img">
+                                        <a href="http://localhost/knewdog.com/newsletter/specific/brian-tracys-business-success-newsletter/239">
+                                                                                            <img style="width:79px;" src="http://localhost/knewdog.com/uploads/e18e1e3d865903bf015bf5eff025798a.jpg" alt="screenshot">
+                                                                                    </a>
+                                    </div>
+                                    <div class="review_detail">
+                                        <a class="name" href="http://localhost/knewdog.com/newsletter/specific/brian-tracys-business-success-newsletter/239">Brian Tracy's Business Success Newsletter</a><br/>
+                                        <label style="color:#808080; float:left;">Author: </label><span style="float: left; width: 315px;">Brian Tracy</span>
+                                                                                <span  style="float:left; position:relative" class="rating_hover">
+                                            <span style=" display: inline-block; vertical-align: text-bottom;" data-productid="239" title="" data-rateit-resetable="false" data-rateit-value="" data-rateit-ispreset="true" data-rateit-reset="false" data-rateit-readonly="true" class="rateit rateit9"></span>
+
+                                                                                        <a style="text-decoration: none; margin-left: 3px; display: inline-block; vertical-align: top;" href="http://localhost/knewdog.com/newsletter/display-rate/239">(0)</a>
+                                                                                    </span>
+
+                                        <br/>
+                                        <div class="description">
+                                            Learn to achieve your goals faster and more efficiently than ever before. Discover Brian&rsquo;s pro                                        </div>
+                                                                                <label style="color:#808080;">6 subscribers, language: English</label>
+                                        <!--<label style="color:#808080;">1.125 subscribers, 4 newsletters last month, language: English</label> -->
+                                    </div>
+                                    <div class="review_subscribe">
+                                                                                        <img style="cursor:pointer; float:none;" onclick="popups_ajax_unsubscribe('unsubscribe', '239', '1')" src="http://localhost/knewdog.com/assets/img/unsubscribe.png" alt="">
+                                                <label onclick="popups_ajax_unsubscribe('unsubscribe', '239', '1')" style="color: #9a7f82; cursor:pointer; float: right;font-size: 11px;font-weight: bold;margin: 0 84px;">unsubscribe</label>
+                                                <a href="http://localhost/knewdog.com/newsletter/display-rate/239"><img src="http://localhost/knewdog.com/assets/img/evaluate.png" class="evaluate" alt="">
+
+                                                                                                        <label style="color: #9a7f82;float: right;font-size: 11px;font-weight: bold;margin: -13px 22px;">evaluate</label>
+                                                </a>
+
+
+                                                                                                                                <!--<span style="float: right; margin-top: 20px; text-align: center; color:#808080; font-size: 11px;">
+                                                                                                                                You are already subscribed<br>Go to ”<u>My Newsletters</u>”<br>to manage<br>your subscriptions.</span>-->
+                                                                                </div>
+                                    
+                                </div>
+                               
+                        </div>
+                        <div class="pagination"></div>                                    </div>
+            </div>
+
+        </div>
+
+        SELECT *, GROUP_CONCAT(DISTINCT newsletter_category.en ORDER BY newsletter_category.en) as g_en, GROUP_CONCAT(DISTINCT newsletter_keyword.en ORDER BY newsletter_keyword.newsletter_keyword_id) as g_keyword_name, `language`.`language_longform` as newsletter_language
+FROM (`newsletter`)
+LEFT JOIN `newsletter_category` ON `FIND_IN_SET`(`newsletter_category`.`newsletter_category_id` , `newsletter`.`newsletter_category_id`) > 0
+LEFT JOIN `newsletter_keyword` ON `FIND_IN_SET`(`newsletter_keyword`.`newsletter_keyword_id` , `newsletter`.`newsletter_keyword_id`) > 0
+LEFT JOIN `newsletter_rate` ON `newsletter_rate`.`join_newsletter_id` = `newsletter`.`newsletter_id`
+LEFT JOIN `language` ON `language`.`language_id` = `newsletter`.`language_id`
+WHERE `newsletter`.`status` =  'Active'
+AND `newsletter_relation` =  'parent'
+GROUP BY `newsletter_id`
+ORDER BY `newsletter_id` DESC
+LIMIT 3<aside id="sidebar">
+    <div id="sidebar_right">
+        <aside class="widget"><h3 class="widget-title">New in our Library:</h3>
+            <div class="widget_content">
+                <div class="thismightalsointerestyou">
+                                            <div class="antohernewsletter">
+                            <div class="antohernewsletter_img">
+                                <a href="http://localhost/knewdog.com/newsletter/specific/copywriting-with-copyblogger/1365">
+                                                                            <img style="width:40px; height:40px;" src="http://localhost/knewdog.com/uploads/515059ecc2f0f8715993bd232070726f.jpg" alt="authornewsletter">
+                                                                    </a>
+                            </div>
+                            <div class="antohernewsletter_name"><a href="http://localhost/knewdog.com/newsletter/specific/copywriting-with-copyblogger/1365">Copywriting with Copyblogger</a></div>
+                            <div class="antohernewsletter_name"><span><label>Author:</label>Brian Clark</span></div>
+                        </div>
+                                            <div class="antohernewsletter">
+                            <div class="antohernewsletter_img">
+                                <a href="http://localhost/knewdog.com/newsletter/specific/dave-ramsey/1364">
+                                                                            <img style="width:40px; height:40px;" src="http://localhost/knewdog.com/uploads/5a56e09454f2bdb5dda933e4bafebd47.jpg" alt="authornewsletter">
+                                                                    </a>
+                            </div>
+                            <div class="antohernewsletter_name"><a href="http://localhost/knewdog.com/newsletter/specific/dave-ramsey/1364">Dave Ramsey</a></div>
+                            <div class="antohernewsletter_name"><span><label>Author:</label>Dave Ramsey</span></div>
+                        </div>
+                                            <div class="antohernewsletter">
+                            <div class="antohernewsletter_img">
+                                <a href="http://localhost/knewdog.com/newsletter/specific/der-fonds/1361">
+                                                                            <img style="width:40px; height:40px;" src="http://localhost/knewdog.com/uploads/32e9d3fa65408017293306061460460c.jpg" alt="authornewsletter">
+                                                                    </a>
+                            </div>
+                            <div class="antohernewsletter_name"><a href="http://localhost/knewdog.com/newsletter/specific/der-fonds/1361">Der Fonds</a></div>
+                            <div class="antohernewsletter_name"><span><label>Author:</label>Egon Wachtendorf</span></div>
+                        </div>
+                    
+                </div>
+            </div>
+        </aside>
+                    <aside class="widget"><h3 class="widget-title">This might also interest you:</h3>
+                <div class="widget_content">
+                    <div class="thismightalsointerestyou">
+                                                        <div class="antohernewsletter">
+
+                                    <div class="antohernewsletter_img"><a href="http://localhost/knewdog.com/newsletter/specific/copywriting-with-copyblogger/1365">
+                                                                                            <img style="width:40px; height:40px;" src="http://localhost/knewdog.com/uploads/515059ecc2f0f8715993bd232070726f.jpg" alt="screenshot">
+                                                                                    </a></div>
+                                    <div class="antohernewsletter_name"><a href="http://localhost/knewdog.com/newsletter/specific/copywriting-with-copyblogger/1365">Copywriting with Copyblogger</a></div>
+                                    <div class="antohernewsletter_name"><span><label>Author:</label>Brian Clark</span></div>
+                                </div>
+                                                                <div class="antohernewsletter">
+
+                                    <div class="antohernewsletter_img"><a href="http://localhost/knewdog.com/newsletter/specific/power-formula/1280">
+                                                                                            <img style="width:40px; height:40px;" src="http://localhost/knewdog.com/uploads/a4ad4b86d412bf2a6d2b0ad640190c6b.jpg" alt="screenshot">
+                                                                                    </a></div>
+                                    <div class="antohernewsletter_name"><a href="http://localhost/knewdog.com/newsletter/specific/power-formula/1280">Power Formula</a></div>
+                                    <div class="antohernewsletter_name"><span><label>Author:</label>Wayne Breitbarth</span></div>
+                                </div>
+                                                                <div class="antohernewsletter">
+
+                                    <div class="antohernewsletter_img"><a href="http://localhost/knewdog.com/newsletter/specific/automotive-news-europe/1248">
+                                                                                            <img style="width:40px; height:40px;" src="http://localhost/knewdog.com/uploads/10e3a8c60c8ebef208ae617d955a70ea.jpg" alt="screenshot">
+                                                                                    </a></div>
+                                    <div class="antohernewsletter_name"><a href="http://localhost/knewdog.com/newsletter/specific/automotive-news-europe/1248">Automotive News Europe</a></div>
+                                    <div class="antohernewsletter_name"><span><label>Author:</label>crain Communications Inc</span></div>
+                                </div>
+                                                        <!-- <div class="antohernewsletter">
+                             <div class="antohernewsletter_img"><a target="_blank" href="#"><img src="http://localhost/knewdog.com/assets/img/authornewsletter.png"></a></div>
+                             <div class="antohernewsletter_name"><a target="_blank" href="#">Another Newsletter</a><span><label>Author:</label>Another Author</span></div>
+                         </div>
+                         <div class="antohernewsletter">
+                             <div class="antohernewsletter_img"><a target="_blank" href="#"><img src="http://localhost/knewdog.com/assets/img/authornewsletter.png"></a></div>
+                             <div class="antohernewsletter_name"><a target="_blank" href="#">Another Newsletter</a><span><label>Author:</label>Another Author</span></div>
+                         </div>-->
+                    </div>
+                </div>
+            </aside>
+                <aside class="widget" style="border-bottom:0;">
+            <div class="widget_content">
+                                    <div class="wanted">
+                        <p style="text-align: center;"><span style="color:#808080">knewdog recommends:</span></p><a href="http://hidemyass.com/vpn/r19334/" title="Hide My Ass! Pro VPN"><img src="//ddfnmo6ev4fd.cloudfront.net/img/banners2014/cm/200x200.gif" alt="HideMyAss.com"></a>                    </div>
+                                </div>
+        </aside>
+    </div>
+</aside>    </section>
+    <script type ="text/javascript">
+                            //we bind only to the rateit controls within the products div
+                            $('.dashreview .rateit').bind('rated reset', function(e) {
+                                var ri = $(this);
+
+                                //if the use pressed reset, it will get value: 0 (to be compatible with the HTML range control), we could check if e.type == 'reset', and then set the value to  null .
+                                var value = ri.rateit('value');
+                                //alert(value);
+                                var productID = ri.data('productid');
+                                //var starheight = ri.rateit('starheight'); 
+                                // if the product id was in some hidden field: ri.closest('li').find('input[name="productid"]').val()
+                                //alert(productID);
+                                //alert(starheight)
+                                //maybe we want to disable voting?
+                                ri.rateit('readonly', true);
+
+                                $.ajax({
+                                    url: 'http://localhost/knewdog.com/newsletter/rateit', //your server side script
+                                    data: {action: 'rate', id: productID, value: value}, //our data
+                                    type: 'POST',
+                                    success: function(data) {
+                                        $('#response').append('<li>' + data + '</li>');
+                                        $("#result_star").rateit('value', data);
+                                    },
+                                    error: function(jxhr, msg, err) {
+                                        $('#response').append('<li style="color:red">' + msg + '</li>');
+                                    }
+                                });
+                            });
+                            $(document).ready(
+                                    function() {
+                                        $(".rating_hover").hover(function(e) {
+                                            if ($(this).children(".rating_popup").is(":visible") == true) {
+                                                $(this).children(".rating_popup").hide();
+                                            }
+                                            else {
+                                                $(this).children(".rating_popup").show();
+                                            }
+                                            //$(this).next().css("display","block");
+                                        }
+                                        );
+                                    });
+                            function display_tabs(id) {
+                                var num = id.split("_");
+
+                                $(".tabs li").removeClass("current");
+                                $(".section").css("display", "none");
+                                $("#" + id).addClass("current");
+                                $("#section_" + num[1]).css("display", "block");
+                            }
+                            //var mynl_tab = ''; 
+                            var mynl_tab = 'tab_1';
+                            //alert(mynl_tab);
+                            //alert(mynl_tab);
+                            if (mynl_tab == 'tab_2') {
+                                display_tabs('tab_2');
+
+                            } else if (mynl_tab == 'tab_1') {
+                                display_tabs('tab_1');
+
+                            } else {
+                                display_tabs('tab_1');
+                            }
+
+                            function schedule_set(id, loc) {
+                                if (loc == 'site') {
+
+                                    if (id == 'Daily') {
+                                        $(".site .everyweekson").find("input").attr('disabled', false);
+                                        $('.site input[name="weeks_on[]"]').attr('checked', false);
+                                        $('.site input[name="every"]').attr('disabled', true);
+                                        $('.site input[name="every"]').val('');
+                                        //$('.site input[name="weeks_on[]"]').attr('checked', 'checked');
+                                        $('.site input[name="weeks_on[]"]').attr('disabled', true);
+
+
+                                    } else if (id == 'Weekly') {
+                                        $(".site .everyweekson").find("input").attr('disabled', false);
+                                        //$('.site input[name="weeks_on[]"]').attr('checked', false);
+                                        $('.site input[name="every"]').attr('disabled', true);
+                                        //$('input[name="weeks_on"]').attr('disabled', true);
+                                    } else if (id == 'Monthly') {
+                                        $(".site .everyweekson").find("input").attr('disabled', false);
+                                        //$('.site input[name="weeks_on[]"]').attr('checked', false);
+                                        //$('input[name="every"]').attr('disabled', true);
+                                        //$('input[name="weeks_on"]').attr('disabled', true);
+                                    } else if (id == 'Yearly') {
+                                        $(".site .everyweekson").find("input").attr('disabled', false);
+                                        //$('.site input[name="weeks_on[]"]').attr('checked', false);
+                                        $('.site input[name="every"]').attr('disabled', true);
+                                        $('.site input[name="every"]').val('');
+                                        //$('.site input[name="weeks_on[]"]').attr('checked', 'checked');
+                                        $('.site input[name="weeks_on[]"]').attr('disabled', true);
+                                    }
+                                }
+                                if (loc == 'popup') {
+
+                                    if (id == 'Daily') {
+                                        $(".popup_ajax .everyweekson").find("input").attr('disabled', false);
+                                        $('.popup_ajax input[name="weeks_on[]"]').attr('checked', false);
+                                        $('.popup_ajax input[name="every"]').attr('disabled', true);
+                                        $('.popup_ajax input[name="every"]').val('');
+                                        //$('.popup_ajax input[name="weeks_on[]"]').attr('checked', 'checked');
+                                        $('.popup_ajax input[name="weeks_on[]"]').attr('disabled', true);
+
+
+                                    } else if (id == 'Weekly') {
+                                        $(".popup_ajax .everyweekson").find("input").attr('disabled', false);
+                                        //$('.popup_ajax input[name="weeks_on[]"]').attr('checked', false);
+                                        $('.popup_ajax input[name="every"]').attr('disabled', true);
+
+                                        //$('input[name="weeks_on"]').attr('disabled', true);
+                                    } else if (id == 'Monthly') {
+                                        $(".popup_ajax .everyweekson").find("input").attr('disabled', false);
+                                        //$('.popup_ajax input[name="weeks_on[]"]').attr('checked', false);
+                                        //$('input[name="every"]').attr('disabled', true);
+                                        //$('input[name="weeks_on"]').attr('disabled', true);
+                                    } else if (id == 'Yearly') {
+                                        $(".popup_ajax .everyweekson").find("input").attr('disabled', false);
+                                        //$('.popup_ajax input[name="weeks_on[]"]').attr('checked', false);
+                                        $('.popup_ajax input[name="every"]').attr('disabled', true);
+                                        $('.popup_ajax input[name="every"]').val('');
+                                        //$('.popup_ajax input[name="weeks_on[]"]').attr('checked', 'checked');
+                                        $('.popup_ajax input[name="weeks_on[]"]').attr('disabled', true);
+                                    }
+                                }
+                            }
+    </script>
+
+    <script src="http://localhost/knewdog.com/assets/js/jquery.rateit.js" type="text/javascript"></script>
+</main><footer>
+    <div id="footer">
+        <div class="footer">
+            <div class="widget-in-footer">
+                <h3 class="widget-title">Account</h3>
+                <ul id="menu-accounts">
+                    <li><a href="http://localhost/knewdog.com/signup">Sign Up (free!)</a></li>
+                                        <li><a href="http://localhost/knewdog.com/signup">Learn more</a></li>
+                                    </ul>
+            </div>
+
+            <div class="widget-in-footer">
+                <h3 class="widget-title">About</h3>
+                <ul id="menu-about">
+                    <li><a href="http://localhost/knewdog.com/about">What for?</a></li>
+                    <li><a href="http://localhost/knewdog.com/blog">Blog</a></li>
+                    <li><a href="http://localhost/knewdog.com/contactus">Contact us</a></li>
+                    <!--<li><a href="#"></a></li>-->
+                </ul>
+            </div>
+
+            <div class="widget-in-footer">
+                <h3 class="widget-title">Help</h3>
+                <ul id="menu-help">
+                                            <li><a href="http://localhost/knewdog.com/help/">Help</a></li>
+                                            <li><a href="http://localhost/knewdog.com/help/gettingstarted">Getting Started</a></li>
+                                            <li><a href="http://localhost/knewdog.com/help/faq">FAQ</a></li>
+                                        <li><a href="http://localhost/knewdog.com/contactus">Contact us</a></li>
+                </ul>
+            </div>
+
+            <div class="widget-in-footer">
+                <h3 class="widget-title">Follow us ...</h3>
+                <ul id="footer_social" class="">
+                    <li><a target="_blank" href="https://twitter.com/knewdog_news"><img src="http://localhost/knewdog.com/assets/img/twitter.png" alt="twitter" height="26" width="26"></a></li>
+                    <li><a target="_blank" href="http://www.facebook.com/knewdog"><img src="http://localhost/knewdog.com/assets/img/facebook_footer.png" alt="facebook" height="26" width="26"></a></li>
+                    <li><a target="_blank" href="http://plus.google.com/+Knewdog"><img src="http://localhost/knewdog.com/assets/img/googleplus.png" alt="googleplus" height="26" width="26"></a></li>
+                    <li><a target="_blank" href="http://www.linkedin.com/company/knewdog-"><img src="http://localhost/knewdog.com/assets/img/linkedin.png" alt="linkedin" height="26" width="26"></a></li>
+                                    </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="footeraddress">
+        <p><span>
+                <small>© 2014 knewdog! all rights reserved</small>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://localhost/knewdog.com/legal" title="Legal">
+                    <small>Legal</small></a></span>
+            <span style="float:right; margin-right:50px;"><small>Developed by <a class="design_developed" style="" href="http://www.amutechnologies.com">www.amutechnologies.com</a></small></span>
+        </p>
+    </div>
+</footer>
+
+<a href="javascript:void(0)" id="dynamic-to-top" style="display: inline;"><span>&nbsp;</span></a>
+<div id="overlay">
+    <!-- signup -->
+    <div style="" class="popup signin">
+        <div  class="freeusers_box signup_popup">
+            <div class="popup_heading">Login</div>
+            <div class="popup_cancle"><a style="opacity:1;" class="popup_close" href="#"><img height="32" width="32" src="http://localhost/knewdog.com/assets/img/popup-close.png" alt="Popup Close"></a></div>
+            <div class="signupfree">
+
+                                    <div style="margin:12px;" class="alert alert-error">
+                        <a class="close" data-dismiss="alert">&#215;</a>
+                        <strong>ohh snap!</strong>
+Already Login please logout!                    </div>
+                                <div class="home_right">
+
+                    <div>
+                        <div class="topheader">
+                            <ul>
+                                <li class="signinwith">Sign up with</li>
+                                                                <li class="facebook"><a onClick="javascript:void window.open('https://www.facebook.com/dialog/oauth?client_id=1513162265564802&amp;redirect_uri=http%3A%2F%2Flocalhost%2Fknewdog.com%2Fnewsletter&amp;state=95e0596355bcec90415ce33ecd820d11&amp;sdk=php-sdk-3.2.3&amp;display=popup&amp;next=http%3A%2F%2Flocalhost%2Fknewdog.com%2F&amp;scope=email', 'fb_popup', 'width=600,height=300,toolbar=0,menubar=0,location=0,status=0,scrollbars=1,resizable=1,left=0,top=0');
+                                        return false;" href="https://www.facebook.com/dialog/oauth?client_id=1513162265564802&amp;redirect_uri=http%3A%2F%2Flocalhost%2Fknewdog.com%2Fnewsletter&amp;state=95e0596355bcec90415ce33ecd820d11&amp;sdk=php-sdk-3.2.3&amp;display=popup&amp;next=http%3A%2F%2Flocalhost%2Fknewdog.com%2F&amp;scope=email"><img src="http://localhost/knewdog.com/assets/img/facebook.png" alt="facebook" height="26" width="26">Facebook</a></li>
+                                                                    <li class="google"><a onClick="javascript:void window.open('https://accounts.google.com/o/oauth2/auth?response_type=code&amp;redirect_uri=https%3A%2F%2Fwww.knewdog.com&amp;client_id=60336836583-pirt7aqrb0uab840qqrkmrtv3ml27j0i.apps.googleusercontent.com&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&amp;access_type=offline&amp;approval_prompt=force', 'g_popup', 'width=600,height=300,toolbar=0,menubar=0,location=0,status=0,scrollbars=1,resizable=1,left=0,top=0');
+                                        return false;" href="https://accounts.google.com/o/oauth2/auth?response_type=code&amp;redirect_uri=https%3A%2F%2Fwww.knewdog.com&amp;client_id=60336836583-pirt7aqrb0uab840qqrkmrtv3ml27j0i.apps.googleusercontent.com&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&amp;access_type=offline&amp;approval_prompt=force"><img src="http://localhost/knewdog.com/assets/img/google.png" alt="google" height="26" width="26">Google</a></li>
+                            </ul>
+                        </div>
+                        <p class="quicksignup_home">Quick sign in with your username and password.</p>
+                        <form method="post" class="form_home" action="http://localhost/knewdog.com/signin/validate_credentials_front">
+                            <input class="username_home" name="username" type="text" placeholder="Username OR email"/>
+                            <input class="username_home" name="password" type="password" placeholder="Password" /><br/>
+                            <!--                            <label>
+                                                            OR
+                                                        </label>
+                                                        <input style="margin-top:5px; margin-right:189px;" class="username_home" name="email" type="text" placeholder="Email" /><br/>-->
+                            <input style="margin-top:5px; margin-bottom:5px;" class="btn btn_main" value="Sign in" name="Submit" type="submit" />
+                            <a href="http://localhost/knewdog.com/signin/forgot_password">Forgot password?</a>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- signup end-->
+    <!-- advace_search_popup -->
+    <div class="popup advance_search_popup">
+        <div class="freeusers_box advancedsearch_popup_box">
+            <div class="gopremium_cancell_btn"><a class="popup_close" href="javascript:void(0);"><img src="http://localhost/knewdog.com/assets/img/gopremiumcancell.png" height="17" width="18" alt="gopremiumcancell"></a></div>
+            <div class="heading">Find exactly what you’re looking for with the<br>Advanced search feature for Premium Members!</div>
+            <p>Get the advanced search now to enhance your search results.</p>
+            <div class="gopremium_btn"><a class="btn btn_main" href="http://localhost/knewdog.com/premium-account">
+                    Go Premium<!--                    <img src="http://localhost/knewdog.com/assets/img/gopremium.png" height="33" width="129"  alt="gopremium">-->
+                </a><span><a class="popup_close" href="javascript:void(0);">
+                        no thank you                    </a></span></div>
+        </div>
+    </div>
+    <!-- advace_search_popup end -->
+    <!-- advace_search_popup -->
+    <div class="popup manage_schedule_popup_1">
+        <div class="freeusers_box manage_schedulingof_newsletter_popup">
+            <div class="gopremium_cancell_btn"><a class="popup_close" href="javascript:void(0);"><img src="http://localhost/knewdog.com/assets/img/gopremiumcancell.png" height="17" width="18" height="17" width="18"  alt="gopremiumcancell"></a></div>
+            <div class="heading">Get your newsletter exactly when you need it with the scheduling feature for Premium members!</div>
+            <p>Get the scheduling now.</p>
+            <div class="gopremium_btn">
+                <a class="btn btn_main" href="http://localhost/knewdog.com/premium-account">
+<!--                    <img src="http://localhost/knewdog.com/assets/img/gopremium.png" height="33" width="129"  alt="gopremium">-->
+                    Go Premium                </a></div>
+        </div>
+    </div>
+    <!-- advace_search_popup end -->
+    <!-- advace_search_popup 2 -->
+    <div class="popup manage_schedule_popup_2">
+        <div class="freeusers_box subscribetonewsletter_popup">
+            <div class="gopremium_cancell_btn"><a class="popup_close" href="javascript:void(0);"><img src="http://localhost/knewdog.com/assets/img/gopremiumcancell.png" height="17" width="18" alt="gopremiumcancell"></a></div>
+            <div class="heading">Get your newsletter exactly when you need it with the scheduling feature for Premium members!</div>
+            <p>Get the scheduling now.</p>
+            <div class="gopremium_btn">
+                <a class="btn btn_main" href="http://localhost/knewdog.com/premium-account">
+                    Go Premium<!--                    <img src="http://localhost/knewdog.com/assets/img/gopremium.png" height="33" width="129" alt="gopremium">-->
+                </a></div>
+            <div class="gopremium_btn"><a onclick="subcribe_1_submit('subscribe_1');" class="popup_close" href="javascript:void(0);">continue without scheduling</a></div>
+            <div class="gopremium_btn"><label style="color:#808080;">(you will get it at its arrival to our database)</label></div>
+        </div>
+    </div>
+    <!-- advace_search_popup end 2 -->
+    <!-- advace_search_popup 3 -->
+    <div class="popup manage_schedule_popup_3">
+        <div class="freeusers_box">
+            <div class="gopremium_cancell_btn"><a class="popup_close" href="javascript:void(0);"><img src="http://localhost/knewdog.com/assets/img/gopremiumcancell.png" height="17" width="18" alt="gopremiumcancell"></a></div>
+            <div class="heading">Get your newsletter exactly when you need it with the scheduling feature for Premium members!</div>
+            <p>Get the scheduling now.</p>
+            <div class="gopremium_btn">
+                <a class="btn btn_main" href="http://localhost/knewdog.com/premium-account">
+                    Go Premium<!--                    <img src="http://localhost/knewdog.com/assets/img/gopremium.png" height="33" width="129" alt="gopremium">-->
+                </a></div>
+            <span>(Without scheduling you will get your newsletter at its arrival to our database)</span>
+        </div>
+    </div>
+    <!-- advace_search_popup end 3 -->
+    <!-- notviewdetail -->
+    <div class="popup notviewdetail">
+        <div class="freeusers_box advancedsearch_popup_box">
+            <div class="gopremium_cancell_btn"><a class="popup_close" href="javascript:void(0);"><img src="http://localhost/knewdog.com/assets/img/gopremiumcancell.png" height="17" width="18" alt="gopremiumcancell"></a></div>
+            <div style="margin-top:30px;" class="heading">Our extensive newsletter library is only available to our members. <a href="http://localhost/knewdog.com/signup">Sign up now</a>, it's FREE!</div>
+
+        </div>
+    </div>
+    <!-- notviewdetail end -->
+    <!-- uploadavatar -->
+    <div class="popup uploadavatar">
+        <div class=" uploadavatar_popupbox">
+            <div class="gopremium_cancell_btn">
+                <a class="popup_close" href="javascript:void(0);">
+                    <img src="http://localhost/knewdog.com/assets/img/gopremiumcancell.png" height="17" width="18" alt="gopremiumcancell"/>
+                </a>
+            </div>
+
+            <form id="upload_form" enctype="multipart/form-data" method="post" action="http://localhost/knewdog.com/myknewdog/upload_crop_avatar" onsubmit="return checkForm();" >
+                <!-- hidden crop params -->
+                <input type="hidden" id="x1" name="x1" />
+                <input type="hidden" id="y1" name="y1" />
+                <input type="hidden" id="x2" name="x2" />
+                <input type="hidden" id="y2" name="y2" />
+                                <input type="hidden" name="old_avatar" value="" />
+
+                <h2>Step 1: Please select image file</h2>
+                <div>
+                    <input type="file" name="image_file" id="image_file" onchange="fileSelectHandler();" />
+                </div>
+
+                <div class="error"></div>
+
+                <div style="display: none; text-align: center;" class="step2">
+                    <h2 style="text-align:left;">Step 2: Please select a crop region</h2>
+                    <img id="preview" alt="" src="#" />
+
+                    <div class="info">
+                        <label>File size</label> <input type="text" id="filesize" name="filesize" />
+                        <label>Type</label> <input type="text" id="filetype" name="filetype" />
+                        <label>Image dimension</label> <input type="text" id="filedim" name="filedim" />
+                        <label>Width</label> <input type="text" id="w" name="w" />
+                        <label>Height</label> <input type="text" id="h" name="h" />
+                    </div>
+
+                    <input style="margin-bottom:15px;" class="btn btn_main" type="submit" value="Upload" />
+                </div>
+            </form>
+        </div>
+    </div>
+    <!-- uploadavatar end-->
+    <!-- notviewdetail -->
+    <div class="popup for_premium_memebers_only">
+        <div class="freeusers_box advancedsearch_popup_box">
+            <div class="gopremium_cancell_btn"><a class="popup_close" href="javascript:void(0);"><img src="http://localhost/knewdog.com/assets/img/gopremiumcancell.png" height="17" width="18" alt="gopremiumcancell"></a></div>
+            <div style="margin-top:30px; text-align:center;" class="heading">For Premium members only! <a href="http://localhost/knewdog.com/premium-account">Upgrade now!</a> Now! </div>
+
+        </div>
+    </div>
+    <!-- notviewdetail end -->
+</div>
+<div id="overlay_ajax"></div>
+<div style="display:none;" id="dialog-confirm" title="Confirmation">
+    <p><span class="ui-icon ui-icon-alert" style="float:left; margin:0 7px 20px 0;"></span>
+        <span id="ui-message">Are you sure you want to unsubscribe from this newsletter?</span></p>
+</div>
+
+<script src="http://localhost/knewdog.com/assets/js/bootstrap.min.js"></script>
+<script src="http://localhost/knewdog.com/assets/js/admin.min.js"></script>
+<script src="http://localhost/knewdog.com/assets/js/jquery.confirm.js"></script>
+<script>
+                        var val_add = '';
+</script>
+<script src="http://localhost/knewdog.com/assets/js/custom.js"></script>
+<script type="application/javascript">
+    $(function(){$('.popup a.popup_close').click(function(){
+    var currentPopup = $('.popup:visible').size();
+    if($('.popup:visible').size()>1){
+    $(this).closest('.popup').fadeOut('slow');
+    $(this).closest('#overlay').fadeOut('slow');
+    }else{
+    $('#overlay').fadeOut('fast',function(){$(currentPopup).attr('style','');});
+
+    }
+    return false;});
+    });
+    //alert("hii");
+    function popup(cls){
+    //alert(cls);
+    var classes = "."+cls;
+    $("#overlay").fadeIn('slow');
+    $("#overlay").find("."+cls).fadeIn('slow');
+    $("#overlay").find(".popup:not("+classes+")").hide();
+    }
+    $(document).ready(function(e){
+    if (window.location.hash == '#_=_') {
+    window.location.hash = ''; // for older browsers, leaves a # behind
+    history.pushState('', document.title, window.location.pathname); // nice and clean
+    e.preventDefault(); // no page reload
+    }
+    });
+</script>
+
+<script type='text/javascript'>
+    var a = $(this);
+    var href = a.attr('href');
+    $(document).ready(function() {
+
+        $("a[href^='http://']").each(function() {
+            if (this.href.indexOf(location.hostname) == -1) {
+                $(this).attr('target', '_blank');
+                $(this).attr('title', 'Click to open ' + this.href + ' in a new window');
+                $(this).attr('rel', 'nofollow');
+            }
+        }
+        );
+        $("a[href^='https://']").each(function() {
+            if (this.href.indexOf(location.hostname) == -1) {
+                $(this).attr('target', '_blank');
+                $(this).attr('title', 'Click to open ' + this.href + ' in a new window');
+                $(this).attr('rel', 'nofollow');
+            }
+        }
+        );
+
+        $('img').each(function() {
+            if (!$(this).attr('alt'))
+                $(this).attr('alt', '');
+        });
+
+        $("#dynamic-to-top").hide(); // hide on page load
+        $(window).bind('scroll', function() {
+            if ($(this).scrollTop() > 200) { // show after 200 px of user scrolling
+                $("#dynamic-to-top").fadeIn("slow");
+            }
+            if ($(this).scrollTop() == 0) {
+                $("#dynamic-to-top").fadeOut("slow");
+            }
+        });
+        $("a[id='dynamic-to-top']").click(function() {
+
+            $("html, body").animate({scrollTop: 0}, "slow");
+            return false;
+
+        });
+
+    });
+
+</script>
+</div>
+</div>
+</div>
+</body>
+</html>

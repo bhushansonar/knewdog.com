@@ -1,0 +1,147 @@
+
+body {
+    color: #333;
+    font-family: 'Droid Sans',Tahoma,Arial,Verdana sans-serif;
+    font-size: 16px;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+@font-face {
+    font-family: "IconicStroke";
+    font-style: normal;
+    font-weight: normal;
+    src: url("font/iconic_stroke-webfont.eot?#iefix") format("embedded-opentype"), url("font/iconic_stroke-webfont.woff") format("woff"), url("font/iconic_stroke-webfont.ttf") format("truetype"), url("font/iconic_stroke-webfont.svg#IconicStrokeRegular") format("svg");
+}
+h1 {
+    color: #8C8C8C;
+    font-family: 'Questrial',Verdana,sans-serif;
+    font-size: 40px;
+    margin: 0 0 20px;
+    padding: 0;
+    position: relative;
+    text-align: center;
+}
+
+#content {
+    border: 1px solid #383838;
+    border-radius: 8px;
+    margin: 50px auto;
+    min-height: 200px;
+    padding: 30px;
+    position: relative;
+    width: 400px;
+    z-index: 100;
+}
+#content:after {
+    background: none repeat scroll 0 0 #F9F9F9;
+    border: 1px solid #E5E5E5;
+    border-radius: 8px;
+
+}
+input:required, textarea:required {
+    box-shadow: none;
+}
+input:not([type="submit"]), textarea {
+    border: 1px dashed #DBDBDB;
+    border-radius: 2px;
+    color: #3F3F3F;
+    display: block;
+    font-family: 'Droid Sans',Tahoma,Arial,Verdana sans-serif;
+    font-size: 14px;
+    outline: medium none;
+    padding: 4px 8px;
+    transition: background 0.2s linear 0s, box-shadow 0.6s linear 0s;
+    width: 380px;
+}
+input:active:not([type="submit"]), textarea:active, input:focus:not([type="submit"]), textarea:focus {
+    background: none repeat scroll 0 0 #F7F7F7;
+    border: 1px dashed #969696;
+    box-shadow: 2px 2px 7px #E8E8E8 inset;
+}
+input:not([type="submit"]) {
+    height: 20px;
+}
+input:-moz-placeholder, textarea:-moz-placeholder {
+    color: #BABABA;
+    font-style: italic;
+}
+textarea {
+    min-height: 150px;
+    resize: vertical;
+}
+.iconic:before {
+    font-family: "IconicStroke";
+    font-size: 25px;
+}
+.iconic.link:before {
+    content: "/";
+}
+.iconic.quote-alt:before {
+    content: "\'";
+}
+.iconic.comment:before {
+    content: "q";
+}
+.iconic.user:before {
+    content: "u";
+}
+.iconic.mail-alt:before {
+    content: "M";
+}
+label {
+    color: #7F7E7E;
+    transition: color 1s ease 0s;
+}
+label:hover {
+    color: #191919;
+}
+label:before {
+    color: #C1BFBD;
+    transition: color 1s ease 0s;
+}
+label:hover:before {
+    color: #969696;
+    transition: color 1s ease 0s;
+}
+p {
+    margin-bottom: 20px;
+}
+.indication {
+    color: #878787;
+    font-size: 12px;
+    font-style: italic;
+    padding-right: 10px;
+    text-align: right;
+}
+.required {
+    color: #E5224C;
+}
+input[type="submit"] {
+    background: -moz-linear-gradient(center top , #F7F7F7 1%, #F2F2F2 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border: 1px solid #E0E0E0;
+    border-radius: 5px;
+    box-shadow: 0 1px 1px #FFFFFF inset, 0 0 0 5px #EAEAEA;
+    color: #767676;
+    cursor: pointer;
+    font-family: 'Alice',serif;
+    font-size: 18px;
+    margin-left: 235px;
+    padding: 10px 4px;
+    text-shadow: 0 1px 1px #E8E8E8;
+    transition: all 0.2s linear 0s;
+}
+input[type="submit"]:hover {
+    background: -moz-linear-gradient(center top , #F4F4F4 0%, #F2F2F2 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border-color: #CECECE;
+    box-shadow: 0 1px 1px #FFFFFF inset, 0 0 0 5px #E0E0E0;
+    color: #686868;
+}
+input[type="submit"]:active, input[type="submit"]:focus {
+    background: -moz-linear-gradient(center top , #EAEAEA 0%, #F2F2F2 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    box-shadow: 0 -1px 1px #FFFFFF inset, 0 0 0 5px #E0E0E0;
+    color: #515151;
+    position: relative;
+    top: 1px;
+}
+.contact main{ background:none;}

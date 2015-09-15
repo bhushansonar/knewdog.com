@@ -1,0 +1,177 @@
+html.login, html.login body{ background-color:#888; }
+html.login form{ margin-bottom:0; }
+html.login div.modal{ position:relative;margin:48px auto;top:0;left:0; }
+#modal-recovery{ display:none; }
+.dropdown-menu{ display:none; }
+.container.top{ margin-top:60px; }
+.center{ text-align:center; }
+form.search{ margin:0 0; }
+.list-page h2 a{ float:right; }
+.crud-actions{ width:158px; }
+
+#footer {
+  margin:30px 0 30px 0;
+  background-color: #fff;
+  background-repeat: no-repeat;
+}
+
+body.login #footer hr {
+  display: none;
+}
+
+#footer p a {
+  font-weight: bold;
+}
+
+#footer p {
+  margin-bottom: 0;
+}
+#footer p.right {
+  float: right;
+}
+
+.navbar-fixed-top .brand {
+  color: #fff;
+  float: right;
+  font-weight: bold;
+  margin-left: 9px;
+  padding-left: 0;
+  padding-right: 0;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 0 30px rgba(255, 255, 255, 0.125);
+}
+
+.plain-form {
+  margin: 0 0;
+}
+
+.progress-form-file {
+  margin: 18px 0;
+  width: 260px;
+}
+
+.users-header a {
+  float: right;
+}
+
+.reset-margin{
+  margin: 0;
+}
+
+.pagination{
+  text-align: center;
+} 
+
+label{
+  margin: 0 20px;
+} 
+
+form label:first-child{
+  margin: 0 20px 0 12px;
+} 
+
+.container.login{margin-top: 60px;}
+.sidebar-nav {
+  padding: 9px 0;
+}
+
+.form-signin {
+  max-width: 300px;
+  padding: 19px 29px 29px;
+  margin: 0 auto 20px;
+  background-color: #fff;
+  border: 1px solid #e5e5e5;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+  -moz-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+  box-shadow: 0 1px 2px rgba(0,0,0,.05);
+}
+
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 10px;
+}
+
+.form-signin input[type="text"],
+.form-signin input[type="password"] {
+  font-size: 16px;
+  height: auto;
+  margin-bottom: 15px;
+  padding: 7px 9px;
+}
+
+/* Dashboard */
+
+#quick { margin: 10px 0; }
+.quickLink {
+    width: 130px;
+    height: 100px;
+    float: left;
+    margin: 12px;
+    text-align: center;
+    border: 1px solid #ddd;
+    background: transparent url(../../img/admin/bgQuickLink.gif) repeat-x 0 0;
+}
+.quickLink img {
+    width: 48px;
+    height: 48px;
+    margin: 8px 0;
+}
+.quickLink span {
+color:#000000;
+    width: 132px;
+    display: block;
+    clear: both;
+    margin: 5px 0;
+}
+.quickLink:hover { border-color: #aaa; }
+.quickLink {
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+}
+.quickLink a{ text-decoration:none;}
+.well select{ margin-right:7px;}
+
+.radio_div{ display:inline-block; margin-top:5px; float:left; margin-right:12px;}
+.radio_div input[type="radio"]{  float: left;margin-right: 4px; margin-top: 1px !important;}
+.radio_div span{ float:left;}
+.video_input{ margin-bottom:8px !important;}
+.star{color: red; margin-left: 2px;}
+.logininfo{ margin-top:4px; font-size:14px !important;}
+.logininfo a{ color:#FFFFFF !important; text-decoration:underline !important;}
+.logininfo a:hover{ text-decoration:none !important;}
+a:link{text-decoration:none !important;}
+a:visited{text-decoration:none !important;}
+a.btn-success{color:#ffffff !important;}
+.tip{display: inline-block; font-size: 10px;line-height: 17px;font-weight: 600;margin: 1px 0 0 2px;vertical-align: top; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px;
+z-index: 26; background-color: #d54e21; color: #fff;}
+.tip_in{ padding:0 6px; display:block;}
+.tip_div{position: absolute;top: 1px;left: 111px;color: #fff;}
+.navbar .nav > li > a{ padding:10px 9px 11px !important;}
+.table{ clear:both;}
+.head_issue{overflow: hidden;text-align: left;}.head_issue a{ float:left; text-decoration:underline !important;}
+.head_issue a:hover{text-decoration:none !important;}
+.untreated_commen{
+    background-color: #d54e21;
+    border-radius: 10px;
+    color: #fff;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 600;
+    line-height: 17px;
+    margin: 1px 0 0 2px;
+    vertical-align: top;
+    z-index: 26;
+}
+.untreated_commen_in{
+    padding: 0 6px;
+}
+.untreated_comment_div{
+    color: #fff;
+    right: 363px;
+    position: absolute;
+    top: 131px;
+}
